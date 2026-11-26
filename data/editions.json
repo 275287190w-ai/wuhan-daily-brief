@@ -5,65 +5,119 @@
     "stories": [
       {
         "category": "domestic",
-        "headline": "我国首笔省间省内绿电联合交易在北京电力交易中心达成",
-        "summary": "电力用户通过一次申报即可同时购买省内和省外绿色电力，交易范围涵盖西北、华东10个省区市。",
-        "detail": "国家电网披露，此次联合交易使绿电交易流程更加便捷高效，是省间与省内绿电市场首次联动。",
-        "source": "央视网",
-        "sourceUrl": "https://big5.cctv.com/gate/big5/tv.cctv.cn/2026/11/26/VIDEWLsFbFF4cgrToXih7bVk261126.shtml",
-        "top": false
-      },
-      {
-        "category": "domestic",
-        "headline": "三部委印发《新一代通信网建设实施方案》",
-        "summary": "工业和信息化部、国家网信办、国家发展改革委印发方案，提出到2030年建成覆盖完善、性能领先的新一代通信网。",
-        "detail": "方案明确适时开展6G网络建设、低轨卫星互联网系统基本建成，并推进6G、卫星互联网、超高速光通信等标准研制。",
-        "source": "cctv.cn",
-        "sourceUrl": "https://tv.cctv.cn/2026/11/26/VIDETVCWIze3Vj1zXz12D8Rf261126.shtml",
-        "top": false
-      },
-      {
-        "category": "markets",
-        "headline": "商务部：坚决反对美方对中国等经济体加征301关税",
-        "summary": "针对美方“产能过剩”301调查结果及拟对14个经济体加征关税的措施，商务部发言人表示坚决反对。",
-        "detail": "何亚东在例行发布会上称美方301调查是典型单边主义行为，敦促美方回到对话协商轨道，中方保留采取必要措施的权利。",
-        "source": "Sohu",
-        "sourceUrl": "https://news.sohu.com/a/1106850034_120702?scm=10008.1476_13-1476_13-88_88.0-0.0-1-0-0-0.0&spm=smpc.content.pic-group.2.1795700792922XivXiiH",
+        "headline": "巴基斯坦总理祝贺巴籍航天员进驻天宫",
+        "summary": "巴基斯坦总理夏巴兹·谢里夫26日会见中国驻巴大使，祝贺神舟二十四号任务成功发射。",
+        "detail": "穆罕默德·齐尚·阿里与两名中国航天员一同搭乘神舟二十四号，成为首位进入中国空间站的外籍航天员。",
+        "source": "美联社",
+        "sourceUrl": "https://apnews.com/article/4b2a7ae067edc9a1a0b7cd6402bb1f46",
         "top": true
       },
       {
         "category": "world",
-        "headline": "马斯克脑机接口获准开展关键性临床试验",
-        "summary": "马斯克旗下脑机接口项目获监管批准开展关键性临床试验，迈出商业化关键一步。",
-        "detail": "澎湃新闻“全球速报”栏目于11月26日14:40报道该进展，具体批准机构与试验方案未在证据中详述。",
-        "source": "澎湃新闻",
-        "sourceUrl": "https://m.thepaper.cn/list_25429?startTime=1795573199876",
+        "headline": "加沙医院通报以军夜间袭击伤亡",
+        "summary": "美联社26日援引当地医院消息报道，以军夜间袭击造成多名巴勒斯坦人死亡。",
+        "detail": "据当地医院，袭击发生在加沙城和加沙地带中部等地。",
+        "source": "美联社",
+        "sourceUrl": "https://apnews.com/article/522676f17532b878878ff7a4347d0e31",
+        "top": true
+      },
+      {
+        "category": "markets",
+        "headline": "商务部回应美国拟对14个经济体加征关税",
+        "summary": "美国贸易代表办公室公布涉及中国等14个经济体的拟议关税措施，商务部26日表示反对。",
+        "detail": "商务部在例行记者会上回应了美方以所谓产能过剩为由发起的301调查及拟议措施。",
+        "source": "商务部",
+        "sourceUrl": "https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n11y26r/index.html",
+        "top": true
+      },
+      {
+        "category": "domestic",
+        "headline": "北京、上海、南京位列全球科研城市前三",
+        "summary": "《自然》杂志26日发布的增刊显示，中国城市首次包揽该榜单前三。",
+        "detail": "《2026自然指数—科研城市》在科技创新中心与科研城市论坛上发布。北京居首，上海、南京分列第二和第三。",
+        "source": "新华社",
+        "sourceUrl": "https://www.xinhuanet.com/20261126/f0bf145dcbbd4500ba7b0a20e36ac90f/c.html",
+        "top": false
+      },
+      {
+        "category": "domestic",
+        "headline": "三部门公布新一代通信网建设方案",
+        "summary": "工信部、国家网信办、国家发展改革委26日发布建设方案，提出到2030年完善新一代通信网覆盖。",
+        "detail": "方案涉及基础网络、空间网络、国际网络和融合网络等建设。",
+        "source": "工信部",
+        "sourceUrl": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_808db1814bb74a0e87965d66e74f5b4b.html",
+        "top": false
+      },
+      {
+        "category": "domestic",
+        "headline": "西北与华东跨区域绿电联合交易启动",
+        "summary": "国家能源局26日宣布，西北与华东绿电联合交易在北京正式启动。",
+        "detail": "国家能源局将这项交易列为建设全国统一电力市场的举措之一。",
+        "source": "国家能源局",
+        "sourceUrl": "https://www.nea.gov.cn/20261126/360ee5ebdd0c4789b285e252407a069b/c.html",
+        "top": false
+      },
+      {
+        "category": "world",
+        "headline": "韩国央行将基准利率上调至3.25%",
+        "summary": "韩国央行26日决定将基准利率从3.00%上调至3.25%。",
+        "detail": "此次上调幅度为25个基点，由韩国央行金融货币委员会作出决定。",
+        "source": "韩国银行",
+        "sourceUrl": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?menuNo=400069&nttId=11067086",
+        "top": false
+      },
+      {
+        "category": "world",
+        "headline": "刚果（金）东部冲突影响埃博拉疫情应对",
+        "summary": "美联社26日报道，刚果（金）东部的战事迫使部分防疫人员撤离，当地防疫工作受到干扰。",
+        "detail": "当地政府数据显示，本轮疫情的确诊病例已超过1.2万例。",
+        "source": "美联社",
+        "sourceUrl": "https://apnews.com/article/0a0bc05d76d3278319472178a16be14b",
+        "top": false
+      },
+      {
+        "category": "world",
+        "headline": "美国多地在感恩节遭遇强风雨",
+        "summary": "美联社26日报道，美国一些地区在感恩节假期遭遇强风、降雨或洪水。",
+        "detail": "东部沿海发生风暴。加州马林县曾因预期巨浪向部分沿岸区域发布撤离警告。",
+        "source": "美联社",
+        "sourceUrl": "https://apnews.com/article/e8bc9bc454c933dacffe89b1139c4d3c",
         "top": false
       },
       {
         "category": "markets",
-        "headline": "广期所氢氧化锂期货上市交易，挂牌基准价75000元/吨",
-        "summary": "我国首个锂盐期货在广州期货交易所上市，LI2706至LI2711共6个合约挂牌基准价均为75000元/吨。",
-        "detail": "该品种填补新能源关键原材料价格风险管理工具空白，服务锂电产业链稳链强链。",
-        "source": "大河财立方",
-        "sourceUrl": "https://www.dahecube.com/wap/article.html?artid=293965?chname=%e9%95%bf%e4%b8%89%e8%a7%92?qtype=0",
+        "headline": "香港联交所对中国恒大、恒大物业及七名董事采取纪律行动",
+        "summary": "香港联交所26日公布纪律行动，所涉事项包括恒大物业向中国恒大提供134亿元人民币财务资助。",
+        "detail": "联交所指出，恒大物业等以定期存款为第三方融资提供担保，相关款项最终转至中国恒大。",
+        "source": "香港交易所",
+        "sourceUrl": "https://www.hkex.com.hk/News/Regulatory-Announcements/2026/261126news?sc_lang=zh-HK",
+        "top": false
+      },
+      {
+        "category": "markets",
+        "headline": "氢氧化锂期货在广州期货交易所上市",
+        "summary": "氢氧化锂期货26日在广期所挂牌，是锂产业链新增的期货品种。",
+        "detail": "按交易所公告，首批各合约挂牌基准价为每吨7.5万元。",
+        "source": "新华财经",
+        "sourceUrl": "https://www.cnfin.com/dz-lb/detail/20261126/4500568_1.html",
         "top": false
       },
       {
         "category": "entertainment",
-        "headline": "电影贺岁档11月27日开启，多部中外影片宣布定档",
-        "summary": "贺岁档将于11月27日正式开启，已定档影片涵盖动画、悬疑、科幻、爱情等类型。",
-        "detail": "《复仇者联盟5：毁灭之日》内地定档12月16日全球领先上映，《沙丘3》定档12月31日跨年夜。",
-        "source": "cctv.cn",
-        "sourceUrl": "https://arts.cctv.cn/2026/11/26/ARTI3ZfMkekuWf2EiWA9MJLK261126.shtml",
+        "headline": "内地电影贺岁档11月27日开启",
+        "summary": "央视新闻26日发布今年电影贺岁档片单，档期从11月27日开始。",
+        "detail": "片单涵盖国产和进口影片，包括《乌龙镇》等作品。",
+        "source": "央视新闻",
+        "sourceUrl": "https://news.cctv.com/2026/11/26/ARTI7tnUmzYf5Xq0gfO2g6O9261126.shtml",
         "top": false
       },
       {
         "category": "entertainment",
-        "headline": "电影《循环街区》北京首映，邓家佳演绎虚拟角色",
-        "summary": "《循环街区》在北京举行首映活动，邓家佳在片中出演虚拟角色。",
-        "detail": "央视电影频道《中国电影报道》于11月26日播出该首映报道。",
-        "source": "CCTV节目官网",
-        "sourceUrl": "https://tv.cctv.com/2026/11/26/VIDEuVfZhv0jCYGn4PjmbExA261126.shtml",
+        "headline": "杜兰杜兰乐队吉他手安迪·泰勒去世",
+        "summary": "美联社报道，英国新浪潮乐队杜兰杜兰的早期吉他手安迪·泰勒去世，享年65岁。",
+        "detail": "他参与乐队早期作品《Rio》等，并于2022年随乐队入选摇滚名人堂。",
+        "source": "美联社",
+        "sourceUrl": "https://apnews.com/article/2334d13b2b0b0196488721611036d977",
         "top": false
       }
     ],
