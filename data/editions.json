@@ -1,148 +1,87 @@
 [
   {
     "date": "2026-11-26",
-    "cutoffAt": "2026-11-26T20:52:00+08:00",
+    "cutoffAt": "2026-11-26T15:24:50.775Z",
     "stories": [
       {
         "category": "domestic",
-        "headline": "巴基斯坦总理祝贺巴籍航天员进驻天宫",
-        "summary": "神舟二十四号乘组于25日抵达天宫。26日，巴基斯坦总理夏巴兹·谢里夫会见中国驻巴大使，祝贺任务成功发射。",
-        "detail": "穆罕默德·齐尚·阿里与汤洪波、武毅一同搭乘神舟二十四号，成为首位进入中国空间站的外籍航天员。此次联合飞行源于中巴两国2025年2月签署的合作协议。",
-        "source": "美联社",
-        "sourceUrl": "https://apnews.com/article/pakistan-china-space-tiangong-shenzhou-4b2a7ae067edc9a1a0b7cd6402bb1f46",
-        "top": true
-      },
-      {
-        "category": "markets",
-        "headline": "商务部回应美国拟对14个经济体加征关税",
-        "summary": "美国贸易代表办公室公布拟议措施，涉及中国在内的14个经济体。商务部26日表示反对，并敦促美方通过对话协商解决分歧。",
-        "detail": "商务部称，美方的301关税提案对中美约300亿美元对等降税清单内的产品给予豁免。中方希望双方尽快落实降税安排，经贸团队仍在就延长吉隆坡经贸磋商联合安排保持沟通。",
-        "source": "商务部",
-        "sourceUrl": "https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n11y26r/index.html",
-        "top": true
-      },
-      {
-        "category": "world",
-        "headline": "加沙医院称以军夜间袭击造成8人死亡",
-        "summary": "美联社26日援引加沙当地医院消息报道，夜间的以军袭击造成8名巴勒斯坦人死亡。",
-        "detail": "据当地医院，三起袭击发生在加沙城和加沙地带中部。美联社报道，以色列与哈马斯达成停火协议已一年多，加沙仍频繁发生枪击和空袭。",
-        "source": "美联社",
-        "sourceUrl": "https://apnews.com/article/gaza-iran-israel-uae-hormuz-november-26-2026-522676f17532b878878ff7a4347d0e31",
+        "headline": "《新闻联播》报道多项国内新进展",
+        "summary": "11月26日晚《新闻联播》报道我国发布《新一代通信网建设实施方案》、东风着陆场准备迎接神舟二十三号返回、海太长江隧道首线穿越长江等多项进展。",
+        "detail": "节目还提到我国加快培育服务贸易新动能、推进“人工智能+制造”专项行动，以及国内联播快讯中的多项动态。",
+        "source": "CCTV节目官网",
+        "sourceUrl": "https://tv.cctv.com/2026/11/26/VIDEojCAtMvEHuaFGEyreRr5261126.shtml",
         "top": true
       },
       {
         "category": "domestic",
-        "headline": "北京、上海、南京位列自然指数科研城市前三",
-        "summary": "26日报道的《自然指数》科研城市增刊显示，北京连续第十年居首，上海和南京分别排第二和第三。",
-        "detail": "这份榜单依据2025年在145种自然科学和健康科学期刊上的科研产出编制。中国城市首次占据该榜单前三，广州、武汉和杭州也进入前十。",
-        "source": "新华社",
-        "sourceUrl": "https://www2.xinhuanet.com/tech/20261126/d2b4315198734faaa93030ff2ea697c9/c.html",
+        "headline": "国内首笔省间省内绿电联合交易达成",
+        "summary": "11月26日，我国首笔省间省内绿电联合交易在北京电力交易中心达成，覆盖西北、华东10个省区市。",
+        "detail": "电力用户一次申报即可同时购买省内和省外绿色电力；同日国家医保局依托全国统一医保信息平台上线“连续用药管理”功能。",
+        "source": "央视网",
+        "sourceUrl": "https://big5.cctv.com/gate/big5/tv.cctv.cn/2026/11/26/VIDEWLsFbFF4cgrToXih7bVk261126.shtml",
+        "top": true
+      },
+      {
+        "category": "markets",
+        "headline": "商务部坚决反对美对中国等加征301关税",
+        "summary": "针对美方拟对包括中国在内的14个经济体加征301关税，商务部新闻发言人何亚东26日表示坚决反对。",
+        "detail": "商务部称美方301调查是单边主义行为、违反世贸组织规则，敦促美方回到对话协商轨道，并表示保留采取必要措施的权利。",
+        "source": "Sohu",
+        "sourceUrl": "https://news.sohu.com/a/1106850034_120702?scm=10008.1476_13-1476_13-88_88.0-0.0-1-0-0-0.0&spm=smpc.content.pic-group.2.1795700792922XivXiiH",
         "top": false
       },
       {
         "category": "world",
-        "headline": "刚果（金）东部冲突迫使埃博拉防疫人员撤离",
-        "summary": "美联社26日报道，刚果（金）东部战事升级，部分防疫人员撤离，接触者追踪和部分社区的救治工作受阻。",
-        "detail": "世界卫生组织官员说，伊图里省部分道路中断，妨碍医疗物资运送和患者转运。世卫组织将当地一支团队暂时转移到了省会布尼亚。",
-        "source": "美联社",
-        "sourceUrl": "https://apnews.com/article/ebola-congo-who-fighting-rebels-evacuation-ff1890d63ca7f3c3a8beeb127727e5cd",
+        "headline": "世贸总干事高度评价中国入世25年贡献",
+        "summary": "中国常驻世贸组织代表团25日在日内瓦主办入世25周年高级别对话会，世贸总干事伊维拉高度评价中国的发展成就与贡献。",
+        "detail": "伊维拉认为中国为其他发展中成员融入多边贸易体制树立了典范。",
+        "source": "央视网",
+        "sourceUrl": "https://big5.cctv.com/gate/big5/tv.cctv.cn/2026/11/26/VIDEccYY4c8SXE1WiFZdoziO261126.shtml",
         "top": false
       },
       {
         "category": "world",
-        "headline": "韩国央行将基准利率上调至3.25%",
-        "summary": "韩国央行26日加息25个基点，并把今年经济增长预期从3.3%上调至3.9%。",
-        "detail": "韩国央行预计，半导体行业将继续支撑出口和投资，2027年经济增速有望达到4.1%。央行预计通胀仍将在一段时间内高于目标。",
-        "source": "韩国银行",
-        "sourceUrl": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?menuNo=400069&nttId=11067086",
-        "top": false
-      },
-      {
-        "category": "markets",
-        "headline": "A股三大指数涨跌不一，贵金属板块走强",
-        "summary": "26日收盘，沪指涨0.01%，深成指跌0.02%，创业板指涨0.29%。",
-        "detail": "每日经济新闻收盘数据显示，贵金属和元件板块涨幅靠前，机场航运和生物制品板块跌幅靠前。当天有1766只A股上涨、3642只下跌。",
-        "source": "每日经济新闻（新浪财经转载）",
-        "sourceUrl": "https://finance.sina.com.cn/jjxw/2026-11-26/doc-inizzwrm3785481.shtml",
-        "top": false
-      },
-      {
-        "category": "markets",
-        "headline": "香港联交所谴责中国恒大、恒大物业及七名董事",
-        "summary": "香港联交所26日公布纪律处分，涉及恒大物业向中国恒大提供的134亿元人民币财务资助。",
-        "detail": "联交所认定，相关安排涉及恒大物业以定期存款向第三方融资提供担保，所筹资金最终转入中国恒大。联交所指出，两家公司在这项安排中严重违反《上市规则》。",
-        "source": "香港交易所",
-        "sourceUrl": "https://www.hkex.com.hk/News/Regulatory-Announcements/2026/261126news?sc_lang=zh-cn",
+        "headline": "荷兰外交大臣表示反对美方限制对华半导体设备出口",
+        "summary": "访华的荷兰外交大臣贝伦德森表示，荷兰反对美国计划限制对华出口半导体设备，荷兰出口管制自主决定。",
+        "detail": "他透露荷中两国一直就光刻机设备等保持定期沟通。",
+        "source": "news.tvb.com",
+        "sourceUrl": "https://news.tvb.com/en/1208487-%E5%85%AB%E5%88%86%E9%90%98%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E%E9%87%8D%E9%BB%9E%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%8A%A0%E5%BE%B5%E9%97%9C%E7%A8%85%E8%8D%B7%E8%98%AD%E5%8F%8D%E5%B0%8D%E9%99%90%E5%88%B6%E5%B0%8D%E8%8F%AF%E5%87%BA%E5%8F%A3%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%A8%AD%E5%82%99",
         "top": false
       },
       {
         "category": "entertainment",
-        "headline": "内地电影贺岁档27日开启，已有逾50部影片定档",
-        "summary": "央视新闻26日报道，今年贺岁档从11月27日开始，已定档影片超过50部。",
-        "detail": "档期持续至12月31日。央视片单包括国产电影《西游记之真假美猴王》、纪录片《凤凰山下·词》，以及进口片《复仇者联盟5》《沙丘3》。",
-        "source": "央视新闻",
-        "sourceUrl": "https://news.cctv.com/2026/11/26/ARTI7tnUmzYf5Xq0gfO2g6O9261126.shtml",
-        "top": false
-      },
-      {
-        "category": "entertainment",
-        "headline": "杜兰杜兰乐队吉他手安迪·泰勒去世",
-        "summary": "美联社于北京时间26日凌晨报道，英国新浪潮乐队杜兰杜兰的吉他手安迪·泰勒去世，享年65岁。",
-        "detail": "泰勒的家人和队友发布声明证实消息。他曾参与乐队早期代表作《Rio》，并于2022年随乐队入选摇滚名人堂。",
-        "source": "美联社",
-        "sourceUrl": "https://apnews.com/article/andy-taylor-dies-duran-duran-2334d13b2b0b0196488721611036d977",
+        "headline": "电影贺岁档27日开启 多部中外影片定档",
+        "summary": "11月27日电影市场正式进入贺岁档，已有多部中外影片定档，涵盖动画、悬疑、科幻、爱情等类型。",
+        "detail": "进口片《复仇者联盟5：毁灭之日》定档12月16日全球领先上映，《沙丘3》定档12月31日跨年夜。",
+        "source": "cctv.cn",
+        "sourceUrl": "https://arts.cctv.cn/2026/11/26/ARTI3ZfMkekuWf2EiWA9MJLK261126.shtml",
         "top": false
       }
     ],
     "indices": [
       {
         "name": "上证指数",
-        "value": "3,476.88",
-        "change": "+0.01%",
-        "date": "2026-11-26",
-        "sourceUrl": "https://fund.eastmoney.com/a/202611263940572011.html"
+        "value": "3,476.47",
+        "change": "−2.03%",
+        "date": "2026-11-25",
+        "sourceUrl": "https://finance.eastmoney.com/a/202611253939494194.html"
       },
       {
         "name": "深证成指",
-        "value": "10,084.04",
-        "change": "-0.02%",
-        "date": "2026-11-26",
-        "sourceUrl": "https://fund.eastmoney.com/a/202611263940572011.html"
+        "value": "10,086.36",
+        "change": "−3.24%",
+        "date": "2026-11-25",
+        "sourceUrl": "https://finance.eastmoney.com/a/202611253939494194.html"
       },
       {
         "name": "创业板指",
-        "value": "2,189.82",
-        "change": "+0.29%",
-        "date": "2026-11-26",
-        "sourceUrl": "https://fund.eastmoney.com/a/202611263940572011.html"
+        "value": "2,183.58",
+        "change": "−4.19%",
+        "date": "2026-11-25",
+        "sourceUrl": "https://finance.eastmoney.com/a/202611253939494194.html"
       }
     ],
-    "offers": [
-      {
-        "brand": "武汉煨汤节",
-        "headline": "淘宝闪购会场红包",
-        "summary": "第五届武汉煨汤滋补美食节设有淘宝闪购武汉专场。参加活动的餐厅包括三五醇、湖锦酒楼和小蓝鲸。",
-        "conditions": "2026 年 11 月 18 日至 2027 年 2 月 21 日。红包以淘宝闪购会场展示为准，门店优惠见各餐厅公告。",
-        "sourceUrl": "https://news.ifeng.com/c/8y9iemRnJa0",
-        "certain": true
-      },
-      {
-        "brand": "肯德基",
-        "headline": "感恩季同款买一送一",
-        "summary": "11 月 26 日是活动最后一天。凭活动券购买指定商品，可获赠同款一份。",
-        "conditions": "11 月 13 日至 26 日的工作日。先在肯德基 App 查看可用券及武汉参加门店。",
-        "sourceUrl": "https://www.sina.cn/news/detail/5368355696673384.html",
-        "certain": false
-      },
-      {
-        "brand": "麦当劳",
-        "headline": "随心配 1+1 ¥13.90 起",
-        "summary": "指定主食和小食或饮品各选一款。例如 5 块麦乐鸡搭配一份派，官网活动价为 ¥13.90。",
-        "conditions": "11 月 2 日至 12 月 1 日。部分门店在早餐结束后供应，可在麦当劳 App 或小程序切换武汉门店查看到店取餐菜单。",
-        "sourceUrl": "https://www.mcdonalds.com.cn/news/20261102-value/",
-        "certain": false
-      }
-    ]
+    "offers": []
   },
   {
     "date": "2026-11-25",
