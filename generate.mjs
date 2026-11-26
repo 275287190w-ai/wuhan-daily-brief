@@ -15566,6 +15566,7 @@ var sections = {
 var timeZone = "Asia/Shanghai";
 var sourceLink = external_exports.string().url().max(1e3).refine((link) => link.startsWith("https://"));
 var dateKey = external_exports.string().regex(/^\d{4}-\d{2}-\d{2}$/);
+var weekdays = ["\u65E5", "\u4E00", "\u4E8C", "\u4E09", "\u56DB", "\u4E94", "\u516D"];
 var story = external_exports.object({
   category: external_exports.enum(["domestic", "world", "markets", "entertainment"]),
   headline: external_exports.string().min(1).max(85),
@@ -15592,7 +15593,12 @@ var editionSchema = external_exports.object({
     summary: external_exports.string().min(1).max(160),
     conditions: external_exports.string().min(1).max(280),
     sourceUrl: sourceLink,
-    certain: external_exports.boolean()
+    certain: external_exports.boolean(),
+    validity: external_exports.object({
+      starts: dateKey,
+      ends: dateKey,
+      weekdays: external_exports.array(external_exports.enum(weekdays)).min(1)
+    }).optional()
   })).max(3)
 }).superRefine((edition, context) => {
   if (edition.date !== beijingDate(new Date(edition.cutoffAt))) {
@@ -15874,7 +15880,8 @@ var seed = [
         "summary": "\u7B2C\u4E94\u5C4A\u6B66\u6C49\u7168\u6C64\u6ECB\u8865\u7F8E\u98DF\u8282\u8BBE\u6709\u6DD8\u5B9D\u95EA\u8D2D\u6B66\u6C49\u4E13\u573A\u3002\u53C2\u52A0\u6D3B\u52A8\u7684\u9910\u5385\u5305\u62EC\u4E09\u4E94\u9187\u3001\u6E56\u9526\u9152\u697C\u548C\u5C0F\u84DD\u9CB8\u3002",
         "conditions": "2026 \u5E74 11 \u6708 18 \u65E5\u81F3 2027 \u5E74 2 \u6708 21 \u65E5\u3002\u7EA2\u5305\u4EE5\u6DD8\u5B9D\u95EA\u8D2D\u4F1A\u573A\u5C55\u793A\u4E3A\u51C6\uFF0C\u95E8\u5E97\u4F18\u60E0\u89C1\u5404\u9910\u5385\u516C\u544A\u3002",
         "sourceUrl": "https://news.ifeng.com/c/8y9iemRnJa0",
-        "certain": true
+        "certain": true,
+        "validity": { "starts": "2026-11-18", "ends": "2027-02-21", "weekdays": ["\u65E5", "\u4E00", "\u4E8C", "\u4E09", "\u56DB", "\u4E94", "\u516D"] }
       },
       {
         "brand": "\u80AF\u5FB7\u57FA",
@@ -15882,7 +15889,8 @@ var seed = [
         "summary": "11 \u6708 26 \u65E5\u662F\u6D3B\u52A8\u6700\u540E\u4E00\u5929\u3002\u51ED\u6D3B\u52A8\u5238\u8D2D\u4E70\u6307\u5B9A\u5546\u54C1\uFF0C\u53EF\u83B7\u8D60\u540C\u6B3E\u4E00\u4EFD\u3002",
         "conditions": "11 \u6708 13 \u65E5\u81F3 26 \u65E5\u7684\u5DE5\u4F5C\u65E5\u3002\u5148\u5728\u80AF\u5FB7\u57FA App \u67E5\u770B\u53EF\u7528\u5238\u53CA\u6B66\u6C49\u53C2\u52A0\u95E8\u5E97\u3002",
         "sourceUrl": "https://www.sina.cn/news/detail/5368355696673384.html",
-        "certain": false
+        "certain": false,
+        "validity": { "starts": "2026-11-26", "ends": "2026-11-26", "weekdays": ["\u56DB"] }
       },
       {
         "brand": "\u9EA6\u5F53\u52B3",
@@ -15890,7 +15898,8 @@ var seed = [
         "summary": "\u6307\u5B9A\u4E3B\u98DF\u548C\u5C0F\u98DF\u6216\u996E\u54C1\u5404\u9009\u4E00\u6B3E\u3002\u4F8B\u5982 5 \u5757\u9EA6\u4E50\u9E21\u642D\u914D\u4E00\u4EFD\u6D3E\uFF0C\u5B98\u7F51\u6D3B\u52A8\u4EF7\u4E3A \xA513.90\u3002",
         "conditions": "11 \u6708 2 \u65E5\u81F3 12 \u6708 1 \u65E5\u3002\u90E8\u5206\u95E8\u5E97\u5728\u65E9\u9910\u7ED3\u675F\u540E\u4F9B\u5E94\uFF0C\u53EF\u5728\u9EA6\u5F53\u52B3 App \u6216\u5C0F\u7A0B\u5E8F\u5207\u6362\u6B66\u6C49\u95E8\u5E97\u67E5\u770B\u5230\u5E97\u53D6\u9910\u83DC\u5355\u3002",
         "sourceUrl": "https://www.mcdonalds.com.cn/news/20261102-value/",
-        "certain": false
+        "certain": false,
+        "validity": { "starts": "2026-11-02", "ends": "2026-12-01", "weekdays": ["\u65E5", "\u4E00", "\u4E8C", "\u4E09", "\u56DB", "\u4E94", "\u516D"] }
       }
     ]
   },
@@ -15999,13 +16008,12 @@ var chapterIndex = external_exports.object({
   change: external_exports.string(),
   date: external_exports.string()
 });
-var weekdayName = ["\u65E5", "\u4E00", "\u4E8C", "\u4E09", "\u56DB", "\u4E94", "\u516D"];
 var calendarDate = external_exports.string().regex(/^\d{4}-\d{2}-\d{2}$/);
 var chapterOffer = external_exports.object({
   ref: external_exports.string(),
   starts: calendarDate,
   ends: calendarDate,
-  weekdays: external_exports.array(external_exports.enum(weekdayName)).min(1),
+  weekdays: external_exports.array(external_exports.enum(weekdays)).min(1),
   brand: external_exports.string(),
   headline: external_exports.string(),
   summary: external_exports.string(),
@@ -16038,12 +16046,12 @@ function parseList(schema, value) {
 function normalize(text) {
   return text.normalize("NFKC").replace(/[，,\s]/g, "").replace(/[−–—]/g, "-");
 }
-async function collectEdition(key, cutoff, previous) {
+async function collectEdition(key, cutoff, previous, publishedToday) {
   const today2 = beijingDate(cutoff);
-  const weekday = weekdayName[(/* @__PURE__ */ new Date(today2 + "T00:00:00Z")).getUTCDay()];
+  const weekday = weekdays[(/* @__PURE__ */ new Date(today2 + "T00:00:00Z")).getUTCDay()];
   const since = previous ? new Date(previous.cutoffAt) : new Date(cutoff.getTime() - day);
   const after = " after:" + beijingDate(new Date(since.getTime() - day));
-  const tradingDay = new Date(cutoff.getTime() - day);
+  const tradingDay = new Date(cutoff.getTime() - (showTime(cutoff.toISOString()) >= "15:00" ? 0 : day));
   for (const weekend = /^(Sat|Sun)$/; weekend.test(tradingDay.toLocaleDateString("en-US", { timeZone: "Asia/Shanghai", weekday: "short" })); ) {
     tradingDay.setTime(tradingDay.getTime() - day);
   }
@@ -16054,7 +16062,8 @@ async function collectEdition(key, cutoff, previous) {
     { section: "markets", query: `${today2} \u4E2D\u56FD \u8D22\u7ECF \u7ECF\u6D4E \u653F\u7B56 \u516C\u53F8 \u516C\u544A \u65B0\u95FB ${after}` },
     { section: "entertainment", query: `${today2} \u7535\u5F71 \u6587\u5316 \u6587\u5A31 \u65B0\u95FB \u6700\u65B0 \u6D88\u606F ${after}` },
     { section: "index", query: `${tradingHint} A\u80A1 \u6536\u76D8 \u4E0A\u8BC1\u6307\u6570 \u6DF1\u8BC1\u6210\u6307 \u521B\u4E1A\u677F\u6307 \u70B9\u4F4D \u6DA8\u8DCC\u5E45` },
-    { section: "offer", query: `${today2} \u6B66\u6C49 \u9910\u996E \u5B98\u65B9 \u4F1A\u5458\u65E5 \u9650\u65F6\u4F18\u60E0 \u80AF\u5FB7\u57FA \u8FBE\u7F8E\u4E50 \u8336\u996E \u9EA6\u5F53\u52B3` }
+    { section: "offer", query: `${today2.slice(0, 7)} \u6B66\u6C49 \u9910\u996E \u6D88\u8D39\u5238 \u4F18\u60E0 \u9910\u996E\u534F\u4F1A \u54C1\u724C \u6D3B\u52A8\u516C\u544A` },
+    { section: "offer", query: `${today2.slice(0, 7)} \u5468${weekday} \u80AF\u5FB7\u57FA \u8FBE\u7F8E\u4E50 \u8336\u996E \u9EA6\u5F53\u52B3 \u4F1A\u5458\u65E5 \u4F18\u60E0 \u5B98\u65B9 \u6D3B\u52A8\u65F6\u95F4` }
   ];
   const discovered = await Promise.allSettled(searches.map(async ({ section, query }) => {
     const data = searchResponse.parse(await request("/v1/tools/search", key, { query, count: 5, need_content: true }));
@@ -16123,16 +16132,19 @@ async function collectEdition(key, cutoff, previous) {
     if (!evidence.includes(value) || !observedChange || index.date > tradingHint) return [];
     return [{ ...index, sourceUrl: source.url }];
   });
-  const latestIndexDate = indices.map((row) => row.date).sort().at(-1);
-  const marketClose = indices.filter((row, index, list) => row.date === latestIndexDate && index === list.findIndex((other) => other.name === row.name && other.date === latestIndexDate)).slice(0, 3);
-  const offers = parseList(chapterOffer, output.offers).flatMap(({ ref, starts, ends, weekdays, ...offer }) => {
+  const availableIndices = [...publishedToday?.indices ?? [], ...indices, ...previous?.indices ?? []];
+  const latestIndexDate = availableIndices.map((row) => row.date).sort().at(-1);
+  const marketClose = availableIndices.filter((row, index, list) => row.date === latestIndexDate && index === list.findIndex((other) => other.name === row.name && other.date === latestIndexDate)).slice(0, 3);
+  const offers = parseList(chapterOffer, output.offers).flatMap(({ ref, starts, ends, weekdays: weekdays2, ...offer }) => {
     const source = byRef.get(ref);
     const daysInHeadline = [...offer.headline.matchAll(/(?:周|星期)([日一二三四五六天])/g)].map((match) => match[1] === "\u5929" ? "\u65E5" : match[1]);
-    if (!source || source.section !== "offer" || !source.content?.trim() || starts > today2 || ends < today2 || !weekdays.includes(weekday) || daysInHeadline.length > 0 && !daysInHeadline.includes(weekday)) return [];
-    return [{ ...offer, sourceUrl: source.url }];
-  }).slice(0, 3);
+    if (!source || source.section !== "offer" || !source.content?.trim() || starts > today2 || ends < today2 || !weekdays2.includes(weekday) || daysInHeadline.length > 0 && !daysInHeadline.includes(weekday)) return [];
+    return [{ ...offer, sourceUrl: source.url, validity: { starts, ends, weekdays: weekdays2 } }];
+  });
+  const carriedOffers = [...previous?.offers ?? [], ...seed.flatMap((issue) => issue.offers)].filter(({ validity }) => validity && validity.starts <= today2 && validity.ends >= today2 && validity.weekdays.includes(weekday));
+  const availableOffers = [...publishedToday?.offers ?? [], ...offers, ...carriedOffers].filter((offer, index, list) => index === list.findIndex((other) => other.brand === offer.brand)).slice(0, 3);
   if (!stories.length) throw new Error("\u672C\u671F\u6CA1\u6709\u901A\u8FC7\u6838\u5BF9\u7684\u65B0\u95FB\uFF0C\u4FDD\u7559\u4E0A\u4E00\u671F\u3002");
-  return editionSchema.parse({ date: today2, cutoffAt: cutoff.toISOString(), stories, indices: marketClose.length ? marketClose : previous?.indices ?? [], offers });
+  return editionSchema.parse({ date: today2, cutoffAt: cutoff.toISOString(), stories, indices: marketClose, offers: availableOffers });
 }
 
 // portable/build.tsx
@@ -16202,7 +16214,8 @@ if (refresh && (forceRefresh || editions[0]?.date !== today)) {
   const key = process.env.DEEPSEEK_API_KEY;
   if (!key) throw new Error("\u8BF7\u901A\u8FC7\u8FD0\u884C\u73AF\u5883\u914D\u7F6E DEEPSEEK_API_KEY\u3002");
   const earlier = editions.filter((edition) => edition.date < today);
-  const entry = await collectEdition(key, /* @__PURE__ */ new Date(), earlier[0]);
+  const publishedToday = editions.find((edition) => edition.date === today);
+  const entry = await collectEdition(key, /* @__PURE__ */ new Date(), earlier[0], publishedToday);
   editions = [entry, ...earlier].slice(0, 2);
   await writeState(editions);
 } else if (dataOnly) {
