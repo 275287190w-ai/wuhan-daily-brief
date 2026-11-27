@@ -1,33 +1,33 @@
 [
   {
     "date": "2026-11-27",
-    "cutoffAt": "2026-11-27T16:11:07+08:00",
+    "cutoffAt": "2026-11-27T16:31:23+08:00",
     "stories": [
       {
         "category": "markets",
         "headline": "前10个月规模以上工业企业利润同比增长16.0%",
-        "summary": "国家统计局27日上午公布，1—10月全国规模以上工业企业利润同比增长16.0%。",
-        "detail": "同期国有控股企业利润同比增长13.0%，私营企业同比增长11.4%。",
+        "summary": "增速比前九个月快 0.5 个百分点。电子行业利润同比翻倍，贡献了 9.7 个百分点，是这轮增长的主要支撑。",
+        "detail": "国家统计局解读指出，人工智能算力需求带动存储芯片及周边制造利润增长。分门类看，制造业利润增长 17.5%，电力、热力、燃气及水生产和供应业利润下降 14.8%。",
         "source": "国家统计局",
-        "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261127_1965949.html",
+        "sourceUrl": "https://www.stats.gov.cn/sj/sjjd/202611/t20261127_1965950.html",
         "top": true
       },
       {
         "category": "entertainment",
         "headline": "U17国足8比0战胜斐济，晋级世少赛32强",
-        "summary": "北京时间27日凌晨，中国队在U17世界杯小组赛末轮击败斐济，取得32强席位。",
-        "detail": "这是中国队在本届赛事小组赛的第三场比赛。",
-        "source": "亚足联",
-        "sourceUrl": "https://www.the-afc.com/en/national/fifa_u-17_world_cup.html/news/wrap-fu17-1",
+        "summary": "中国队小组赛 1 胜 1 平 1 负，以成绩最好的八支小组第三名之一出线。这是时隔 21 年再进世少赛淘汰赛。",
+        "detail": "前两轮，中国队负于西班牙、战平摩洛哥。对斐济的比赛中，万项和邝兆镭各进两球，中国队上半场已领先 4 比 0。",
+        "source": "中国足协",
+        "sourceUrl": "https://www.thecfa.cn/xinwenu17/20261127/38520.html",
         "top": true
       },
       {
         "category": "world",
-        "headline": "亚洲股市周五早盘多数上涨",
-        "summary": "美联社27日上午报道，美股感恩节休市后的首个亚洲交易时段，多数股市走高。",
-        "detail": "美股计划周五恢复交易，当天交易时段因假期缩短。",
+        "headline": "亚洲股市普涨，韩国综合股指涨超 4%",
+        "summary": "美联社报道，韩国综合股指盘中涨 4.2%，日经 225 涨近 2%。美股感恩节休市后将于周五恢复交易，当天缩短交易时间。",
+        "detail": "日本芯片相关个股走势先弱后强。美联社报道，东京电子、爱德万测试早盘下跌后反弹，最终收涨。",
         "source": "美联社",
-        "sourceUrl": "https://apnews.com/article/c7ef10c1dbc5fa09668bd4fe0729c613",
+        "sourceUrl": "https://apnews.com/article/stock-markets-tariffs-ai-profits-energy-c7ef10c1dbc5fa09668bd4fe0729c613",
         "top": true
       },
       {
@@ -88,24 +88,24 @@
     "indices": [
       {
         "name": "上证指数",
-        "value": "3,476.88",
-        "change": "+0.01%",
-        "date": "2026-11-26",
-        "sourceUrl": "https://fund.eastmoney.com/a/202611263940572011.html"
+        "value": "3606.49",
+        "change": "+3.73%",
+        "date": "2026-11-27",
+        "sourceUrl": "https://gu.qq.com/sh000001/zs"
       },
       {
         "name": "深证成指",
-        "value": "10,084.04",
-        "change": "-0.02%",
-        "date": "2026-11-26",
-        "sourceUrl": "https://fund.eastmoney.com/a/202611263940572011.html"
+        "value": "10814.02",
+        "change": "+7.24%",
+        "date": "2026-11-27",
+        "sourceUrl": "https://gu.qq.com/sz399001/zs"
       },
       {
         "name": "创业板指",
-        "value": "2,189.82",
-        "change": "+0.29%",
-        "date": "2026-11-26",
-        "sourceUrl": "https://fund.eastmoney.com/a/202611263940572011.html"
+        "value": "2443.96",
+        "change": "+11.61%",
+        "date": "2026-11-27",
+        "sourceUrl": "https://gu.qq.com/sz399006/zs"
       }
     ],
     "offers": [
@@ -245,6 +245,14 @@
       },
       "transit": [
         {
+          "title": "4号线青鱼嘴站 A 口 11月28日起临时封闭",
+          "detail": "11月28日至12月25日配合施工封闭。进出站请走其他开放出入口。",
+          "starts": "2026-11-28",
+          "ends": "2026-12-25",
+          "source": "武汉地铁运营",
+          "sourceUrl": "https://weibo.com/2/detail/5368875798495525"
+        },
+        {
           "title": "2/7号线螃蟹岬站D1出入口临时封闭",
           "detail": "因配合施工建设，2/7号线螃蟹岬站D1出入口临时封闭至12月16日，请提前规划进出站路线。",
           "starts": "2026-11-18",
@@ -273,6 +281,16 @@
       ],
       "outings": [
         {
+          "title": "武汉茶博会",
+          "detail": "可以现场品茶，展区有湖北赤壁青砖茶、恩施玉露，也有外地茶叶和茶具。",
+          "starts": "2026-11-27",
+          "ends": "2026-11-30",
+          "place": "武汉国际会展中心（汉口武展）",
+          "source": "武汉市商务局",
+          "sourceUrl": "https://sw.wuhan.gov.cn/ztzl_26/swzt/hzxx/202611/t20261125_2884564.shtml",
+          "admission": "免费开放"
+        },
+        {
           "title": "武汉博物馆周末夜场",
           "detail": "周六、周日延时开放，20:00 停止入馆。",
           "starts": "2026-11-28",
@@ -299,18 +317,14 @@
           "place": "中国光谷科技会展中心",
           "source": "武汉市商务局",
           "sourceUrl": "https://sw.wuhan.gov.cn/xwdt/gzdt/202611/t20261104_2873566.shtml"
-        },
-        {
-          "title": "武汉茶博会",
-          "detail": "免费向公众开放，现场有茶叶、茶具和茶食品展区。",
-          "starts": "2026-11-27",
-          "ends": "2026-11-30",
-          "place": "武汉国际会展中心（汉口武展）",
-          "source": "武汉市商务局",
-          "sourceUrl": "https://sw.wuhan.gov.cn/ztzl_26/swzt/hzxx/202611/t20261125_2884564.shtml"
         }
       ],
       "notes": []
+    },
+    "marketRecap": {
+      "date": "2026-11-27",
+      "text": "沪深京三市有 5380 只股票上涨，半导体板块走强，银行和煤炭板块表现偏弱。",
+      "sourceUrl": "https://www.thepaper.cn/newsDetail_forward_34574315"
     }
   },
   {
