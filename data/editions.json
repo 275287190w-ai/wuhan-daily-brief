@@ -1,5 +1,237 @@
 [
   {
+    "date": "2026-11-27",
+    "cutoffAt": "2026-11-27T04:12:10.095Z",
+    "stories": [
+      {
+        "category": "entertainment",
+        "headline": "2026年电影贺岁档11月27日正式开启",
+        "summary": "为期35天的电影贺岁档11月27日启动，已有超50部中外影片定档。",
+        "detail": "《西游记之真假美猴王》《偷偷藏不住》《复仇者联盟5：毁灭之日》（12月16日）《沙丘3》（12月31日）等覆盖动画、悬疑、科幻、爱情多类型。",
+        "source": "cctv.cn",
+        "sourceUrl": "https://arts.cctv.cn/2026/11/26/ARTI3ZfMkekuWf2EiWA9MJLK261126.shtml",
+        "top": false
+      },
+      {
+        "category": "entertainment",
+        "headline": "《沙丘》《沙丘2》分别于11月27日、12月4日内地重映",
+        "summary": "科幻大片《沙丘》11月27日在内地重映，《沙丘2》定于12月4日重映。",
+        "detail": "《暮光之城》全系列五部已确认引进内地，具体档期待定，其中部分影片将是首次在内地院线公映。",
+        "source": "网易",
+        "sourceUrl": "https://www.163.com/dy/article/LCM9FSGO0514R9P4.html",
+        "top": false
+      },
+      {
+        "category": "entertainment",
+        "headline": "DC电影《泥面人》11月27日内地上映",
+        "summary": "DC超级英雄题材R级恐怖片《泥面人》11月27日正式在中国内地上映。",
+        "detail": "影片由詹姆斯·瓦特金斯执导、迈克·弗拉纳根编剧，汤姆·里斯·哈里斯、娜奥米·阿基主演，10月23日已在北美上映。",
+        "source": "Sohu",
+        "sourceUrl": "https://www.sohu.com/a/1106993591_114733?scm=10001.7746_13-119000.0.0-0-0-0-0.0&spm=smpc.channel_354.block3_32_P7Ovbu_1_fd.45.1795743533077ZP4xcf8_7746",
+        "top": false
+      },
+      {
+        "category": "world",
+        "headline": "币安在10月网络攻击后全面恢复提现服务",
+        "summary": "币安证实已全面完成服务修复并解除所有提现限制，重申将动用自有资金全额赔付损失。",
+        "detail": "今年10月的网络攻击导致约63亿美元资金流失，越南时间11月27日凌晨币安确认恢复。",
+        "source": "華文西貢解放日報",
+        "sourceUrl": "https://cn.sggp.org.vn/11%e6%9c%8827%e6%97%a5%e4%b8%8a%e5%8d%88%e5%9b%bd%e9%99%85%e8%a6%81%e9%97%bb%e5%b8%81%e5%ae%89%e5%9c%a8%e9%81%ad%e9%81%87%e7%bd%91%e7%bb%9c%e6%94%bb%e5%87%bb%e5%90%8e%e5%85%a8%e9%9d%a2%e6%81%a2%e5%a4%8d%e6%8f%90%e7%8e%b0%e6%9c%8d%e5%8a%a1-post146890.html",
+        "top": false
+      }
+    ],
+    "indices": [
+      {
+        "name": "上证指数",
+        "value": "3,476.88",
+        "change": "+0.01%",
+        "date": "2026-11-26",
+        "sourceUrl": "https://fund.eastmoney.com/a/202611263940572011.html"
+      },
+      {
+        "name": "深证成指",
+        "value": "10,084.04",
+        "change": "-0.02%",
+        "date": "2026-11-26",
+        "sourceUrl": "https://fund.eastmoney.com/a/202611263940572011.html"
+      },
+      {
+        "name": "创业板指",
+        "value": "2,189.82",
+        "change": "+0.29%",
+        "date": "2026-11-26",
+        "sourceUrl": "https://fund.eastmoney.com/a/202611263940572011.html"
+      }
+    ],
+    "offers": [
+      {
+        "brand": "第五届武汉煨汤滋补美食节",
+        "headline": "第五届武汉煨汤滋补美食节持续至2027年2月21日",
+        "summary": "由武汉市商务局指导、省市餐饮协会联合平台打造，首批200余家餐厅参与，淘宝闪购设本地专属会场并配套会场红包。",
+        "conditions": "消费券在抖音、美团搜索“武汉假日餐饮消费券”领取，券量有限先到先得；各门店优惠不同，详见各餐厅公告",
+        "sourceUrl": "https://www.ctdsb.net/c1738_202611/2907815.html",
+        "certain": true,
+        "venue": "三五醇、湖锦酒楼、肥肥虾庄、九龙大酒店、来菜、雅和睿景、小蓝鲸等200余家武汉餐厅",
+        "claim": "淘宝闪购煨汤节本地专属会场；抖音、美团搜索“武汉假日餐饮消费券”领券",
+        "validity": {
+          "starts": "2026-11-18",
+          "ends": "2027-02-21",
+          "weekdays": [
+            "日",
+            "一",
+            "二",
+            "三",
+            "四",
+            "五",
+            "六"
+          ]
+        }
+      },
+      {
+        "brand": "武汉煨汤节",
+        "headline": "淘宝闪购会场红包",
+        "summary": "第五届武汉煨汤滋补美食节设有淘宝闪购武汉专场。参加活动的餐厅包括三五醇、湖锦酒楼和小蓝鲸。",
+        "conditions": "2026 年 11 月 18 日至 2027 年 2 月 21 日。红包以淘宝闪购会场展示为准，门店优惠见各餐厅公告。",
+        "sourceUrl": "https://news.ifeng.com/c/8y9iemRnJa0",
+        "certain": true,
+        "venue": "武汉煨汤节参加餐厅",
+        "claim": "淘宝闪购 → 武汉煨汤节会场",
+        "validity": {
+          "starts": "2026-11-18",
+          "ends": "2027-02-21",
+          "weekdays": [
+            "日",
+            "一",
+            "二",
+            "三",
+            "四",
+            "五",
+            "六"
+          ]
+        }
+      },
+      {
+        "brand": "麦当劳",
+        "headline": "随心配 1+1 ¥13.90 起",
+        "summary": "指定主食和小食或饮品各选一款。例如 5 块麦乐鸡搭配一份派，官网活动价为 ¥13.90。",
+        "conditions": "11 月 2 日至 12 月 1 日。部分门店在早餐结束后供应，可在麦当劳 App 或小程序切换武汉门店查看到店取餐菜单。",
+        "sourceUrl": "https://www.mcdonalds.com.cn/news/20261102-value/",
+        "certain": false,
+        "venue": "以麦当劳武汉门店到店取餐菜单为准",
+        "claim": "麦当劳 App 或小程序 → 到店取餐",
+        "validity": {
+          "starts": "2026-11-02",
+          "ends": "2026-12-01",
+          "weekdays": [
+            "日",
+            "一",
+            "二",
+            "三",
+            "四",
+            "五",
+            "六"
+          ]
+        }
+      }
+    ],
+    "calendar": [],
+    "douyin": {
+      "updatedAt": "2026-11-27T03:40:07.332Z",
+      "topics": [
+        {
+          "title": "U17国足8:0斐济",
+          "url": "https://www.douyin.com/video/7712528850793532722"
+        },
+        {
+          "title": "中国男篮80:82不敌沙特男篮",
+          "url": "https://www.douyin.com/video/7712515948644814123"
+        },
+        {
+          "title": "我国将加快培育服务贸易发展新动能",
+          "url": "https://www.douyin.com/video/7712470350436551951"
+        },
+        {
+          "title": "普通人冬日彩色穿搭公式",
+          "url": "https://www.douyin.com/video/7709512901157707876"
+        },
+        {
+          "title": "张堃鹏张泰艺台球大奖赛晋级",
+          "url": "https://www.douyin.com/video/7712134386414857445"
+        }
+      ]
+    },
+    "wuhan": {
+      "date": "2026-11-27",
+      "weather": {
+        "condition": "有雾",
+        "low": 8,
+        "high": 19,
+        "rain": 0,
+        "source": "Open-Meteo",
+        "sourceUrl": "https://api.open-meteo.com/v1/forecast?latitude=30.59&longitude=114.31&daily=weather_code,temperature_2m_min,temperature_2m_max,precipitation_probability_max&timezone=Asia%2FShanghai&forecast_days=1"
+      },
+      "transit": [
+        {
+          "title": "2/7号线螃蟹岬站D1出入口临时封闭",
+          "detail": "因配合施工建设，2/7号线螃蟹岬站D1出入口临时封闭至12月16日，请提前规划进出站路线。",
+          "starts": "2026-11-18",
+          "ends": "2026-12-16",
+          "place": "2/7号线螃蟹岬站D1出入口",
+          "source": "武汉地铁运营",
+          "sourceUrl": "https://weibo.com/2/detail/5363644192785224"
+        },
+        {
+          "title": "2号线广埠屯站K出入口临时封闭",
+          "detail": "因配合施工建设，2号线广埠屯站K出入口临时封闭至12月20日，期间请从其他出入口进出站。",
+          "starts": "2026-11-20",
+          "ends": "2026-12-20",
+          "place": "2号线广埠屯站K出入口",
+          "source": "武汉地铁运营",
+          "sourceUrl": "https://weibo.com/2/detail/5363644192785224"
+        },
+        {
+          "title": "街道口站 B 口临时封闭",
+          "detail": "涉及 2 号线、8 号线，进出站请走其他开放出入口。",
+          "starts": "2026-11-25",
+          "ends": "2026-12-25",
+          "source": "武汉地铁运营",
+          "sourceUrl": "https://weibo.com/2/detail/5368875798495525"
+        }
+      ],
+      "outings": [
+        {
+          "title": "武汉博物馆周末夜场",
+          "detail": "周六、周日延时开放，20:00 停止入馆。",
+          "starts": "2026-11-28",
+          "ends": "2026-11-29",
+          "place": "武汉博物馆",
+          "hours": "09:00–20:30",
+          "source": "武汉市政府",
+          "sourceUrl": "https://www.wuhan.gov.cn/hdjl/rdhy/202609/t20260905_2843817.shtml"
+        },
+        {
+          "title": "晴川阁和汉阳树赏银杏",
+          "detail": "武汉市政府的秋游路线推荐从汉阳树顺路走到晴川阁。周末适合安排一段散步，叶色随天气变化。",
+          "starts": "2026-11-28",
+          "ends": "2026-11-29",
+          "place": "汉阳树公园、晴川阁",
+          "source": "武汉市政府",
+          "sourceUrl": "https://www.wuhan.gov.cn/sy/whyw/202611/t20261109_2875978.shtml"
+        },
+        {
+          "title": "华中首届模型游戏展",
+          "detail": "现场安排模型、手办、电竞硬件和游戏试玩。",
+          "starts": "2026-11-28",
+          "ends": "2026-11-29",
+          "place": "中国光谷科技会展中心",
+          "source": "武汉市商务局",
+          "sourceUrl": "https://sw.wuhan.gov.cn/xwdt/gzdt/202611/t20261104_2873566.shtml"
+        }
+      ],
+      "notes": []
+    }
+  },
+  {
     "date": "2026-11-26",
     "cutoffAt": "2026-11-26T15:49:21.278Z",
     "calendar": [
@@ -296,81 +528,5 @@
         }
       }
     ]
-  },
-  {
-    "date": "2026-11-25",
-    "cutoffAt": "2026-11-25T18:45:00+08:00",
-    "calendar": [],
-    "stories": [
-      {
-        "category": "domestic",
-        "headline": "神舟二十四号发射成功，飞船与天和核心舱对接",
-        "summary": "11月25日，神舟二十四号载人飞船从酒泉卫星发射中心升空，入轨后完成与中国空间站的交会对接。",
-        "detail": "飞船采用约3.5小时的自主快速交会对接模式。乘组包括汤洪波、武毅和穆罕默德·齐尚·阿里，阿里成为首位到访天宫的外籍航天员，中巴计划在任务期间合作开展4项科学实验。",
-        "source": "新华社",
-        "sourceUrl": "https://www3.xinhuanet.com/politics/20261125/e0b6a9f028d34bd98bdfd9f292705235/c.html",
-        "top": true
-      },
-      {
-        "category": "markets",
-        "headline": "A股主要指数集体下跌，创业板指跌4.19%",
-        "summary": "11月25日收盘，沪指跌2.03%，深成指跌3.24%，创业板指跌4.19%，科创50指数跌逾5%。",
-        "detail": "沪深两市成交额约1.38万亿元，较前一个交易日减少约2720亿元。超过4900只个股下跌，芯片板块普遍回落，部分医药和零售股逆势上涨。",
-        "source": "每日经济新闻",
-        "sourceUrl": "https://www.nbd.com.cn/articles/2026-11-25/4658294.html",
-        "top": true
-      },
-      {
-        "category": "world",
-        "headline": "以色列组阁阵营出现分歧，正直党拟继续谈判",
-        "summary": "新华社25日报道，以色列民主党宣布暂停与牵头组阁的正直党谈判。正直党仍计划当天与利库德集团进行第四轮谈判。",
-        "detail": "民主党反对与利库德集团联合执政。正直党已宣布与“以色列是我们的家园”党签署联合执政协议，协议细节尚未公布。议会120席中，单独组阁所需的多数门槛为61席。",
-        "source": "新华社",
-        "sourceUrl": "https://www.news.cn/world/20261125/bfca708bd09d4fb3a009df809db519f0/c.html",
-        "top": true
-      },
-      {
-        "category": "domestic",
-        "headline": "全球6G发展大会在上海举行",
-        "summary": "2026年全球6G发展大会于11月24日至25日在上海举行，议程聚焦下一代移动通信标准研究。",
-        "detail": "大会围绕6G技术标准的最新研究成果展开讨论，并安排发布相关成果，推动各方开展联合研究。",
-        "source": "新华社",
-        "sourceUrl": "https://www.news.cn/20261125/c8bfb2567d06433187f783918a1b0b8a/c.html",
-        "top": false
-      },
-      {
-        "category": "entertainment",
-        "headline": "《国风说唱地带》在成都发布，拟于12月初首播",
-        "summary": "节目于11月25日公布播出计划。龚琳娜、谢帝担任发起人，早安和杨长青担任共创导师。",
-        "detail": "节目汇集来自28个省级行政区的124位创作者，通过城市演出、合作创作和公开表演呈现原创作品，制作环节也将走进成都街头和茶馆。",
-        "source": "四川在线",
-        "sourceUrl": "https://ent.scol.com.cn/wh/202611/83362884.html",
-        "top": false
-      }
-    ],
-    "indices": [
-      {
-        "name": "上证指数",
-        "value": "3,476.47",
-        "change": "−2.03%",
-        "date": "2026-11-25",
-        "sourceUrl": "https://finance.eastmoney.com/a/202611253939494194.html"
-      },
-      {
-        "name": "深证成指",
-        "value": "10,086.36",
-        "change": "−3.24%",
-        "date": "2026-11-25",
-        "sourceUrl": "https://finance.eastmoney.com/a/202611253939494194.html"
-      },
-      {
-        "name": "创业板指",
-        "value": "2,183.58",
-        "change": "−4.19%",
-        "date": "2026-11-25",
-        "sourceUrl": "https://finance.eastmoney.com/a/202611253939494194.html"
-      }
-    ],
-    "offers": []
   }
 ]
