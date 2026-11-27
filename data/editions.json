@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-11-27",
-    "cutoffAt": "2026-11-27T16:31:23+08:00",
+    "cutoffAt": "2026-11-27T17:29:02+08:00",
     "stories": [
       {
         "category": "markets",
@@ -55,7 +55,8 @@
         "detail": "片名与上映日期见中国电影数据信息网，具体场次可查当地影院。",
         "source": "中国电影数据信息网",
         "sourceUrl": "https://www.zgdypw.cn/sc/scxx/202611/25/t20261125_7406472.shtml",
-        "top": false
+        "top": false,
+        "thread": "https://news.cctv.com/2026/11/26/ARTI7tnUmzYf5Xq0gfO2g6O9261126.shtml"
       },
       {
         "category": "markets",
@@ -288,7 +289,13 @@
           "place": "武汉国际会展中心（汉口武展）",
           "source": "武汉市商务局",
           "sourceUrl": "https://sw.wuhan.gov.cn/ztzl_26/swzt/hzxx/202611/t20261125_2884564.shtml",
-          "admission": "免费开放"
+          "admission": "免费开放",
+          "visit": {
+            "district": "江汉区",
+            "indoor": true,
+            "free": true,
+            "metro": "地铁2号线中山公园站"
+          }
         },
         {
           "title": "武汉博物馆周末夜场",
@@ -298,7 +305,13 @@
           "place": "武汉博物馆",
           "hours": "09:00–20:30",
           "source": "武汉市政府",
-          "sourceUrl": "https://www.wuhan.gov.cn/hdjl/rdhy/202609/t20260905_2843817.shtml"
+          "sourceUrl": "https://www.wuhan.gov.cn/hdjl/rdhy/202609/t20260905_2843817.shtml",
+          "visit": {
+            "district": "江汉区",
+            "indoor": true,
+            "free": true
+          },
+          "admission": "门票免费领取"
         },
         {
           "title": "晴川阁和汉阳树赏银杏",
@@ -307,7 +320,10 @@
           "ends": "2026-11-29",
           "place": "汉阳树公园、晴川阁",
           "source": "武汉市政府",
-          "sourceUrl": "https://www.wuhan.gov.cn/sy/whyw/202611/t20261109_2875978.shtml"
+          "sourceUrl": "https://www.wuhan.gov.cn/sy/whyw/202611/t20261109_2875978.shtml",
+          "visit": {
+            "district": "汉阳区"
+          }
         },
         {
           "title": "华中首届模型游戏展",
@@ -316,7 +332,11 @@
           "ends": "2026-11-29",
           "place": "中国光谷科技会展中心",
           "source": "武汉市商务局",
-          "sourceUrl": "https://sw.wuhan.gov.cn/xwdt/gzdt/202611/t20261104_2873566.shtml"
+          "sourceUrl": "https://sw.wuhan.gov.cn/xwdt/gzdt/202611/t20261104_2873566.shtml",
+          "visit": {
+            "district": "东湖高新区",
+            "indoor": true
+          }
         }
       ],
       "notes": []
@@ -325,7 +345,253 @@
       "date": "2026-11-27",
       "text": "沪深京三市有 5380 只股票上涨，半导体板块走强，银行和煤炭板块表现偏弱。",
       "sourceUrl": "https://www.thepaper.cn/newsDetail_forward_34574315"
-    }
+    },
+    "fuel": {
+      "effective": "2026-11-27",
+      "regular": 8.03,
+      "premium": 8.59,
+      "diesel": 7.68,
+      "sourceUrl": "https://www.wuhan.gov.cn/zwgk/tzgg/202611/t20261127_2885719.shtml"
+    },
+    "storyThreads": [
+      {
+        "id": "https://news.cctv.com/2026/11/26/ARTI7tnUmzYf5Xq0gfO2g6O9261126.shtml",
+        "updates": [
+          {
+            "sourceUrl": "https://www.zgdypw.cn/sc/scxx/202611/25/t20261125_7406472.shtml",
+            "date": "2026-11-27",
+            "title": "贺岁档今日开启，多部新片排定上映",
+            "summary": "27日是内地电影贺岁档首日，《泥面人》《魔法秘境》等影片排在当天上映。"
+          },
+          {
+            "sourceUrl": "https://news.cctv.com/2026/11/26/ARTI7tnUmzYf5Xq0gfO2g6O9261126.shtml",
+            "date": "2026-11-26",
+            "title": "内地电影贺岁档11月27日开启",
+            "summary": "央视新闻26日发布今年电影贺岁档片单，档期从11月27日开始。"
+          }
+        ]
+      },
+      {
+        "id": "https://www.stats.gov.cn/sj/sjjd/202611/t20261127_1965950.html",
+        "updates": [
+          {
+            "sourceUrl": "https://www.stats.gov.cn/sj/sjjd/202611/t20261127_1965950.html",
+            "date": "2026-11-27",
+            "title": "前10个月规模以上工业企业利润同比增长16.0%",
+            "summary": "增速比前九个月快 0.5 个百分点。电子行业利润同比翻倍，贡献了 9.7 个百分点，是这轮增长的主要支撑。"
+          }
+        ]
+      },
+      {
+        "id": "https://www.thecfa.cn/xinwenu17/20261127/38520.html",
+        "updates": [
+          {
+            "sourceUrl": "https://www.thecfa.cn/xinwenu17/20261127/38520.html",
+            "date": "2026-11-27",
+            "title": "U17国足8比0战胜斐济，晋级世少赛32强",
+            "summary": "中国队小组赛 1 胜 1 平 1 负，以成绩最好的八支小组第三名之一出线。这是时隔 21 年再进世少赛淘汰赛。"
+          }
+        ]
+      },
+      {
+        "id": "https://apnews.com/article/stock-markets-tariffs-ai-profits-energy-c7ef10c1dbc5fa09668bd4fe0729c613",
+        "updates": [
+          {
+            "sourceUrl": "https://apnews.com/article/stock-markets-tariffs-ai-profits-energy-c7ef10c1dbc5fa09668bd4fe0729c613",
+            "date": "2026-11-27",
+            "title": "亚洲股市普涨，韩国综合股指涨超 4%",
+            "summary": "美联社报道，韩国综合股指盘中涨 4.2%，日经 225 涨近 2%。美股感恩节休市后将于周五恢复交易，当天缩短交易时间。"
+          }
+        ]
+      },
+      {
+        "id": "https://m.nmc.cn/publish/weather-bulletin/index.htm?from=singlemessage",
+        "updates": [
+          {
+            "sourceUrl": "https://m.nmc.cn/publish/weather-bulletin/index.htm?from=singlemessage",
+            "date": "2026-11-27",
+            "title": "中央气象台继续发布大风蓝色预警",
+            "summary": "中央气象台27日6时继续发布预警，华北等地部分地区今明有大风。"
+          }
+        ]
+      },
+      {
+        "id": "https://www.xinhuanet.com/20261127/f4a45fbc19f749c78c7fddfc862f3420/c.html",
+        "updates": [
+          {
+            "sourceUrl": "https://www.xinhuanet.com/20261127/f4a45fbc19f749c78c7fddfc862f3420/c.html",
+            "date": "2026-11-27",
+            "title": "中国外汇交易中心公布27日人民币汇率中间价",
+            "summary": "27日上午，中国外汇交易中心公布当日人民币对美元、欧元等货币的汇率中间价。"
+          }
+        ]
+      },
+      {
+        "id": "https://www.wuhan.gov.cn/zwgk/tzgg/202611/t20261127_2885719.shtml",
+        "updates": [
+          {
+            "sourceUrl": "https://www.wuhan.gov.cn/zwgk/tzgg/202611/t20261127_2885719.shtml",
+            "date": "2026-11-27",
+            "title": "湖北成品油价格下调，92号汽油每升8.03元",
+            "summary": "新价格从11月27日零时起执行，95号汽油每升8.59元，0号柴油每升7.68元。"
+          }
+        ]
+      },
+      {
+        "id": "https://apnews.com/article/north-south-korea-fishermen-boat-return-a3b26cc4a812b0ab0c8bb7ead16be566",
+        "updates": [
+          {
+            "sourceUrl": "https://apnews.com/article/north-south-korea-fishermen-boat-return-a3b26cc4a812b0ab0c8bb7ead16be566",
+            "date": "2026-11-27",
+            "title": "韩国送返六名获救朝鲜渔民，一人选择留下",
+            "summary": "韩国统一部27日表示，六人当天上午乘原船返回朝鲜，一名获救者选择留在韩国。"
+          }
+        ]
+      },
+      {
+        "id": "https://sft.hubei.gov.cn/fbjd/tzgg/202611/t20261126_6135897.shtml",
+        "updates": [
+          {
+            "sourceUrl": "https://sft.hubei.gov.cn/fbjd/tzgg/202611/t20261126_6135897.shtml",
+            "date": "2026-11-27",
+            "title": "2026年法考主观题成绩开放查询",
+            "summary": "11月27日零时起，可通过司法部官网、司法部微信公众号或中国普法微信公众号查询。"
+          }
+        ]
+      },
+      {
+        "id": "https://apnews.com/article/4b2a7ae067edc9a1a0b7cd6402bb1f46",
+        "updates": [
+          {
+            "sourceUrl": "https://apnews.com/article/4b2a7ae067edc9a1a0b7cd6402bb1f46",
+            "date": "2026-11-26",
+            "title": "巴基斯坦总理祝贺巴籍航天员进驻天宫",
+            "summary": "巴基斯坦总理夏巴兹·谢里夫26日会见中国驻巴大使，祝贺神舟二十四号任务成功发射。"
+          }
+        ]
+      },
+      {
+        "id": "https://apnews.com/article/522676f17532b878878ff7a4347d0e31",
+        "updates": [
+          {
+            "sourceUrl": "https://apnews.com/article/522676f17532b878878ff7a4347d0e31",
+            "date": "2026-11-26",
+            "title": "加沙医院通报以军夜间袭击伤亡",
+            "summary": "美联社26日援引当地医院消息报道，以军夜间袭击造成多名巴勒斯坦人死亡。"
+          }
+        ]
+      },
+      {
+        "id": "https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n11y26r/index.html",
+        "updates": [
+          {
+            "sourceUrl": "https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n11y26r/index.html",
+            "date": "2026-11-26",
+            "title": "商务部回应美国拟对14个经济体加征关税",
+            "summary": "美国贸易代表办公室公布涉及中国等14个经济体的拟议关税措施，商务部26日表示反对。"
+          }
+        ]
+      },
+      {
+        "id": "https://www.xinhuanet.com/20261126/f0bf145dcbbd4500ba7b0a20e36ac90f/c.html",
+        "updates": [
+          {
+            "sourceUrl": "https://www.xinhuanet.com/20261126/f0bf145dcbbd4500ba7b0a20e36ac90f/c.html",
+            "date": "2026-11-26",
+            "title": "北京、上海、南京位列全球科研城市前三",
+            "summary": "《自然》杂志26日发布的增刊显示，中国城市首次包揽该榜单前三。"
+          }
+        ]
+      },
+      {
+        "id": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_808db1814bb74a0e87965d66e74f5b4b.html",
+        "updates": [
+          {
+            "sourceUrl": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_808db1814bb74a0e87965d66e74f5b4b.html",
+            "date": "2026-11-26",
+            "title": "三部门公布新一代通信网建设方案",
+            "summary": "工信部、国家网信办、国家发展改革委26日发布建设方案，提出到2030年完善新一代通信网覆盖。"
+          }
+        ]
+      },
+      {
+        "id": "https://www.nea.gov.cn/20261126/360ee5ebdd0c4789b285e252407a069b/c.html",
+        "updates": [
+          {
+            "sourceUrl": "https://www.nea.gov.cn/20261126/360ee5ebdd0c4789b285e252407a069b/c.html",
+            "date": "2026-11-26",
+            "title": "西北与华东跨区域绿电联合交易启动",
+            "summary": "国家能源局26日宣布，西北与华东绿电联合交易在北京正式启动。"
+          }
+        ]
+      },
+      {
+        "id": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?menuNo=400069&nttId=11067086",
+        "updates": [
+          {
+            "sourceUrl": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?menuNo=400069&nttId=11067086",
+            "date": "2026-11-26",
+            "title": "韩国央行将基准利率上调至3.25%",
+            "summary": "韩国央行26日决定将基准利率从3.00%上调至3.25%。"
+          }
+        ]
+      },
+      {
+        "id": "https://apnews.com/article/0a0bc05d76d3278319472178a16be14b",
+        "updates": [
+          {
+            "sourceUrl": "https://apnews.com/article/0a0bc05d76d3278319472178a16be14b",
+            "date": "2026-11-26",
+            "title": "刚果（金）东部冲突影响埃博拉疫情应对",
+            "summary": "美联社26日报道，刚果（金）东部的战事迫使部分防疫人员撤离，当地防疫工作受到干扰。"
+          }
+        ]
+      },
+      {
+        "id": "https://apnews.com/article/e8bc9bc454c933dacffe89b1139c4d3c",
+        "updates": [
+          {
+            "sourceUrl": "https://apnews.com/article/e8bc9bc454c933dacffe89b1139c4d3c",
+            "date": "2026-11-26",
+            "title": "美国多地在感恩节遭遇强风雨",
+            "summary": "美联社26日报道，美国一些地区在感恩节假期遭遇强风、降雨或洪水。"
+          }
+        ]
+      },
+      {
+        "id": "https://www.hkex.com.hk/News/Regulatory-Announcements/2026/261126news?sc_lang=zh-HK",
+        "updates": [
+          {
+            "sourceUrl": "https://www.hkex.com.hk/News/Regulatory-Announcements/2026/261126news?sc_lang=zh-HK",
+            "date": "2026-11-26",
+            "title": "香港联交所对中国恒大、恒大物业及七名董事采取纪律行动",
+            "summary": "香港联交所26日公布纪律行动，所涉事项包括恒大物业向中国恒大提供134亿元人民币财务资助。"
+          }
+        ]
+      },
+      {
+        "id": "https://www.cnfin.com/dz-lb/detail/20261126/4500568_1.html",
+        "updates": [
+          {
+            "sourceUrl": "https://www.cnfin.com/dz-lb/detail/20261126/4500568_1.html",
+            "date": "2026-11-26",
+            "title": "氢氧化锂期货在广州期货交易所上市",
+            "summary": "氢氧化锂期货26日在广期所挂牌，是锂产业链新增的期货品种。"
+          }
+        ]
+      },
+      {
+        "id": "https://apnews.com/article/2334d13b2b0b0196488721611036d977",
+        "updates": [
+          {
+            "sourceUrl": "https://apnews.com/article/2334d13b2b0b0196488721611036d977",
+            "date": "2026-11-26",
+            "title": "杜兰杜兰乐队吉他手安迪·泰勒去世",
+            "summary": "美联社报道，英国新浪潮乐队杜兰杜兰的早期吉他手安迪·泰勒去世，享年65岁。"
+          }
+        ]
+      }
+    ]
   },
   {
     "date": "2026-11-26",
