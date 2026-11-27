@@ -3,7 +3,8 @@ name: 每日简报
 on:
   workflow_dispatch:
   schedule:
-    - cron: '12 23 * * *'
+    - cron: '3,16,25,43 23 * * *'
+    - cron: '17 0 * * *'
 
 permissions:
   contents: write
