@@ -83,17 +83,18 @@
     ],
     "offers": [
       {
-        "brand": "武汉煨汤节",
-        "headline": "淘宝闪购会场红包",
-        "summary": "第五届武汉煨汤滋补美食节设有淘宝闪购武汉专场。参加活动的餐厅包括三五醇、湖锦酒楼和小蓝鲸。",
-        "conditions": "2026 年 11 月 18 日至 2027 年 2 月 21 日。红包以淘宝闪购会场展示为准，门店优惠见各餐厅公告。",
-        "sourceUrl": "https://news.ifeng.com/c/8y9iemRnJa0",
+        "brand": "武商 MALL",
+        "category": "mall",
+        "headline": "时装周专属折扣和观秀套券",
+        "summary": "11 月 27 日至 30 日，武商 MALL 联动商户推出专属折扣。观秀还可领零售、美食、超市等福利套券。",
+        "conditions": "观秀福利套券每个 ID 限领 1 份，领完即止。具体券面和参加品牌以现场为准。",
+        "sourceUrl": "https://sw.wuhan.gov.cn/xwdt/mtbd/202611/t20261126_2885209.shtml",
         "certain": true,
-        "venue": "武汉煨汤节参加餐厅",
-        "claim": "淘宝闪购 → 武汉煨汤节会场",
+        "venue": "武汉武商 MALL",
+        "claim": "到武商 MALL 现场查看参促品牌；观秀可领套券",
         "validity": {
-          "starts": "2026-11-18",
-          "ends": "2027-02-21",
+          "starts": "2026-11-27",
+          "ends": "2026-11-30",
           "weekdays": [
             "日",
             "一",
@@ -103,6 +104,31 @@
             "五",
             "六"
           ]
+        }
+      },
+      {
+        "brand": "美团会员",
+        "category": "drinks",
+        "headline": "周五刷新奶茶、咖啡自选权益",
+        "summary": "美团 L3 及以上会员可从刷新后的权益池自选 1 项，饮品选项可能涵盖古茗、喜茶、瑞幸等。",
+        "conditions": "每周五 0 点刷新，先到先得。饮品直领权益与消费任务权益的条件不同，以账号内页面为准。",
+        "sourceUrl": "https://source.meituan.com/meituan-member/surprise-pick-1",
+        "certain": false,
+        "venue": "武汉可查看，实际品牌和门店以账号及定位为准",
+        "claim": "美团 App 搜索「会员666」→ 会员惊喜",
+        "validity": {
+          "starts": "2026-01-01",
+          "ends": "2026-12-31",
+          "weekdays": [
+            "日",
+            "一",
+            "二",
+            "三",
+            "四",
+            "五",
+            "六"
+          ],
+          "refreshWeekday": "五"
         }
       },
       {
@@ -117,6 +143,31 @@
         "validity": {
           "starts": "2026-11-02",
           "ends": "2026-12-01",
+          "weekdays": [
+            "日",
+            "一",
+            "二",
+            "三",
+            "四",
+            "五",
+            "六"
+          ]
+        },
+        "category": "dining"
+      },
+      {
+        "brand": "德芙",
+        "category": "supermarket",
+        "headline": "美团闪购会场指定零食券",
+        "summary": "美团闪购会场公开规则列有指定商品满 99 减 30 券，涉及巧克力、糖果等。",
+        "conditions": "每日每人限领 1 张，数量有限。先切换武汉配送地址，核对 App 是否显示券及可用商品。",
+        "sourceUrl": "https://source.meituan.com/flash-sale/ov-2113322767160",
+        "certain": false,
+        "venue": "武汉参与活动的零食店、便利店或超市",
+        "claim": "打开美团 App 或美团外卖 App，查找「德芙品牌会场」",
+        "validity": {
+          "starts": "2026-01-01",
+          "ends": "2026-12-31",
           "weekdays": [
             "日",
             "一",
