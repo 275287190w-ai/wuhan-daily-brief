@@ -2,6 +2,9 @@
   {
     "date": "2026-11-26",
     "cutoffAt": "2026-11-26T15:49:21.278Z",
+    "calendar": [
+      "感恩节"
+    ],
     "stories": [
       {
         "category": "domestic",
@@ -121,6 +124,90 @@
         "top": false
       }
     ],
+    "douyin": {
+      "updatedAt": "2026-11-26T15:00:09.006Z",
+      "topics": [
+        {
+          "title": "U17国足迎战斐济争出线",
+          "url": "https://www.douyin.com/video/7712263501359664424"
+        },
+        {
+          "title": "2026世界市长对话乌鲁木齐",
+          "url": "https://www.douyin.com/video/7712413194903407898"
+        },
+        {
+          "title": "中宣部原副部长蔡赴朝被开除党籍",
+          "url": "https://www.douyin.com/video/7712428845017713961"
+        },
+        {
+          "title": "已被这届烟火榜美食选中",
+          "url": "https://www.douyin.com/video/7712097396704005418"
+        },
+        {
+          "title": "清迈的天灯节也太美了吧",
+          "url": "https://www.douyin.com/video/7712131833307502464"
+        }
+      ]
+    },
+    "wuhan": {
+      "date": "2026-11-27",
+      "weather": {
+        "condition": "晴到多云",
+        "low": 6,
+        "high": 20,
+        "source": "武汉市气象台",
+        "sourceUrl": "https://www.wuhan.gov.cn/ztzl/24zt/csrl/202611/t20261125_2884971.shtml"
+      },
+      "transit": [
+        {
+          "title": "街道口站 B 口临时封闭",
+          "detail": "涉及 2 号线、8 号线，进出站请走其他开放出入口。",
+          "starts": "2026-11-25",
+          "ends": "2026-12-25",
+          "source": "武汉地铁运营",
+          "sourceUrl": "https://weibo.com/2/detail/5368875798495525"
+        },
+        {
+          "title": "青鱼嘴站 A 口周六起临时封闭",
+          "detail": "涉及 4 号线。周末经过青鱼嘴站，可从其他开放出入口进出。",
+          "starts": "2026-11-28",
+          "ends": "2026-12-25",
+          "source": "武汉地铁运营",
+          "sourceUrl": "https://weibo.com/2/detail/5368875798495525"
+        }
+      ],
+      "outings": [
+        {
+          "title": "武汉博物馆周末夜场",
+          "detail": "周六、周日延时开放，20:00 停止入馆。",
+          "starts": "2026-11-28",
+          "ends": "2026-11-29",
+          "place": "武汉博物馆",
+          "hours": "09:00–20:30",
+          "source": "武汉市政府",
+          "sourceUrl": "https://www.wuhan.gov.cn/hdjl/rdhy/202609/t20260905_2843817.shtml"
+        },
+        {
+          "title": "晴川阁和汉阳树赏银杏",
+          "detail": "武汉市政府的秋游路线推荐从汉阳树顺路走到晴川阁。周末适合安排一段散步，叶色随天气变化。",
+          "starts": "2026-11-28",
+          "ends": "2026-11-29",
+          "place": "汉阳树公园、晴川阁",
+          "source": "武汉市政府",
+          "sourceUrl": "https://www.wuhan.gov.cn/sy/whyw/202611/t20261109_2875978.shtml"
+        },
+        {
+          "title": "华中首届模型游戏展",
+          "detail": "现场安排模型、手办、电竞硬件和游戏试玩。",
+          "starts": "2026-11-28",
+          "ends": "2026-11-29",
+          "place": "中国光谷科技会展中心",
+          "source": "武汉市商务局",
+          "sourceUrl": "https://sw.wuhan.gov.cn/xwdt/gzdt/202611/t20261104_2873566.shtml"
+        }
+      ],
+      "notes": []
+    },
     "indices": [
       {
         "name": "上证指数",
@@ -151,7 +238,22 @@
         "summary": "第五届武汉煨汤滋补美食节设有淘宝闪购武汉专场。参加活动的餐厅包括三五醇、湖锦酒楼和小蓝鲸。",
         "conditions": "2026 年 11 月 18 日至 2027 年 2 月 21 日。红包以淘宝闪购会场展示为准，门店优惠见各餐厅公告。",
         "sourceUrl": "https://news.ifeng.com/c/8y9iemRnJa0",
-        "certain": true
+        "certain": true,
+        "venue": "武汉煨汤节参加餐厅",
+        "claim": "淘宝闪购 → 武汉煨汤节会场",
+        "validity": {
+          "starts": "2026-11-18",
+          "ends": "2027-02-21",
+          "weekdays": [
+            "日",
+            "一",
+            "二",
+            "三",
+            "四",
+            "五",
+            "六"
+          ]
+        }
       },
       {
         "brand": "肯德基",
@@ -159,7 +261,16 @@
         "summary": "11 月 26 日是活动最后一天。凭活动券购买指定商品，可获赠同款一份。",
         "conditions": "11 月 13 日至 26 日的工作日。先在肯德基 App 查看可用券及武汉参加门店。",
         "sourceUrl": "https://www.sina.cn/news/detail/5368355696673384.html",
-        "certain": false
+        "certain": false,
+        "venue": "肯德基 App 内显示的武汉参加门店",
+        "claim": "肯德基 App → 查看感恩季活动券",
+        "validity": {
+          "starts": "2026-11-26",
+          "ends": "2026-11-26",
+          "weekdays": [
+            "四"
+          ]
+        }
       },
       {
         "brand": "麦当劳",
@@ -167,41 +278,29 @@
         "summary": "指定主食和小食或饮品各选一款。例如 5 块麦乐鸡搭配一份派，官网活动价为 ¥13.90。",
         "conditions": "11 月 2 日至 12 月 1 日。部分门店在早餐结束后供应，可在麦当劳 App 或小程序切换武汉门店查看到店取餐菜单。",
         "sourceUrl": "https://www.mcdonalds.com.cn/news/20261102-value/",
-        "certain": false
-      }
-    ],
-    "calendar": [
-      "感恩节"
-    ],
-    "douyin": {
-      "updatedAt": "2026-11-26T15:00:09.006Z",
-      "topics": [
-        {
-          "title": "U17国足迎战斐济争出线",
-          "url": "https://www.douyin.com/video/7712263501359664424"
-        },
-        {
-          "title": "2026世界市长对话乌鲁木齐",
-          "url": "https://www.douyin.com/video/7712413194903407898"
-        },
-        {
-          "title": "中宣部原副部长蔡赴朝被开除党籍",
-          "url": "https://www.douyin.com/video/7712428845017713961"
-        },
-        {
-          "title": "已被这届烟火榜美食选中",
-          "url": "https://www.douyin.com/video/7712097396704005418"
-        },
-        {
-          "title": "清迈的天灯节也太美了吧",
-          "url": "https://www.douyin.com/video/7712131833307502464"
+        "certain": false,
+        "venue": "以麦当劳武汉门店到店取餐菜单为准",
+        "claim": "麦当劳 App 或小程序 → 到店取餐",
+        "validity": {
+          "starts": "2026-11-02",
+          "ends": "2026-12-01",
+          "weekdays": [
+            "日",
+            "一",
+            "二",
+            "三",
+            "四",
+            "五",
+            "六"
+          ]
         }
-      ]
-    }
+      }
+    ]
   },
   {
     "date": "2026-11-25",
     "cutoffAt": "2026-11-25T18:45:00+08:00",
+    "calendar": [],
     "stories": [
       {
         "category": "domestic",
@@ -272,7 +371,6 @@
         "sourceUrl": "https://finance.eastmoney.com/a/202611253939494194.html"
       }
     ],
-    "offers": [],
-    "calendar": []
+    "offers": []
   }
 ]
