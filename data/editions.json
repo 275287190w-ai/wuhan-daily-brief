@@ -1,42 +1,60 @@
 [
   {
     "date": "2026-11-27",
-    "cutoffAt": "2026-11-27T04:12:10.095Z",
+    "cutoffAt": "2026-11-27T12:17:09+08:00",
     "stories": [
       {
-        "category": "entertainment",
-        "headline": "2026年电影贺岁档11月27日正式开启",
-        "summary": "为期35天的电影贺岁档11月27日启动，已有超50部中外影片定档。",
-        "detail": "《西游记之真假美猴王》《偷偷藏不住》《复仇者联盟5：毁灭之日》（12月16日）《沙丘3》（12月31日）等覆盖动画、悬疑、科幻、爱情多类型。",
-        "source": "cctv.cn",
-        "sourceUrl": "https://arts.cctv.cn/2026/11/26/ARTI3ZfMkekuWf2EiWA9MJLK261126.shtml",
-        "top": false
+        "category": "markets",
+        "headline": "前10个月规模以上工业企业利润同比增长16.0%",
+        "summary": "国家统计局27日上午公布，1—10月全国规模以上工业企业利润同比增长16.0%。",
+        "detail": "同期国有控股企业利润同比增长13.0%，私营企业同比增长11.4%。",
+        "source": "国家统计局",
+        "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261127_1965949.html",
+        "top": true
       },
       {
         "category": "entertainment",
-        "headline": "《沙丘》《沙丘2》分别于11月27日、12月4日内地重映",
-        "summary": "科幻大片《沙丘》11月27日在内地重映，《沙丘2》定于12月4日重映。",
-        "detail": "《暮光之城》全系列五部已确认引进内地，具体档期待定，其中部分影片将是首次在内地院线公映。",
-        "source": "网易",
-        "sourceUrl": "https://www.163.com/dy/article/LCM9FSGO0514R9P4.html",
-        "top": false
-      },
-      {
-        "category": "entertainment",
-        "headline": "DC电影《泥面人》11月27日内地上映",
-        "summary": "DC超级英雄题材R级恐怖片《泥面人》11月27日正式在中国内地上映。",
-        "detail": "影片由詹姆斯·瓦特金斯执导、迈克·弗拉纳根编剧，汤姆·里斯·哈里斯、娜奥米·阿基主演，10月23日已在北美上映。",
-        "source": "Sohu",
-        "sourceUrl": "https://www.sohu.com/a/1106993591_114733?scm=10001.7746_13-119000.0.0-0-0-0-0.0&spm=smpc.channel_354.block3_32_P7Ovbu_1_fd.45.1795743533077ZP4xcf8_7746",
-        "top": false
+        "headline": "U17国足8比0战胜斐济，晋级世少赛32强",
+        "summary": "北京时间27日凌晨，中国队在U17世界杯小组赛末轮击败斐济，取得32强席位。",
+        "detail": "这是中国队在本届赛事小组赛的第三场比赛。",
+        "source": "亚足联",
+        "sourceUrl": "https://www.the-afc.com/en/national/fifa_u-17_world_cup.html/news/wrap-fu17-1",
+        "top": true
       },
       {
         "category": "world",
-        "headline": "币安在10月网络攻击后全面恢复提现服务",
-        "summary": "币安证实已全面完成服务修复并解除所有提现限制，重申将动用自有资金全额赔付损失。",
-        "detail": "今年10月的网络攻击导致约63亿美元资金流失，越南时间11月27日凌晨币安确认恢复。",
-        "source": "華文西貢解放日報",
-        "sourceUrl": "https://cn.sggp.org.vn/11%e6%9c%8827%e6%97%a5%e4%b8%8a%e5%8d%88%e5%9b%bd%e9%99%85%e8%a6%81%e9%97%bb%e5%b8%81%e5%ae%89%e5%9c%a8%e9%81%ad%e9%81%87%e7%bd%91%e7%bb%9c%e6%94%bb%e5%87%bb%e5%90%8e%e5%85%a8%e9%9d%a2%e6%81%a2%e5%a4%8d%e6%8f%90%e7%8e%b0%e6%9c%8d%e5%8a%a1-post146890.html",
+        "headline": "亚洲股市周五早盘多数上涨",
+        "summary": "美联社27日上午报道，美股感恩节休市后的首个亚洲交易时段，多数股市走高。",
+        "detail": "美股计划周五恢复交易，当天交易时段因假期缩短。",
+        "source": "美联社",
+        "sourceUrl": "https://apnews.com/article/c7ef10c1dbc5fa09668bd4fe0729c613",
+        "top": true
+      },
+      {
+        "category": "domestic",
+        "headline": "中央气象台继续发布大风蓝色预警",
+        "summary": "中央气象台27日6时继续发布预警，华北等地部分地区今明有大风。",
+        "detail": "气象台预计，部分地区将有5至6级风、阵风7至9级。具体区域和时段见天气公报。",
+        "source": "中央气象台",
+        "sourceUrl": "https://m.nmc.cn/publish/weather-bulletin/index.htm?from=singlemessage",
+        "top": false
+      },
+      {
+        "category": "markets",
+        "headline": "中国外汇交易中心公布27日人民币汇率中间价",
+        "summary": "27日上午，中国外汇交易中心公布当日人民币对美元、欧元等货币的汇率中间价。",
+        "detail": "公告还列出了日元、港元等货币的参考中间价。",
+        "source": "新华社",
+        "sourceUrl": "https://www.xinhuanet.com/20261127/f4a45fbc19f749c78c7fddfc862f3420/c.html",
+        "top": false
+      },
+      {
+        "category": "entertainment",
+        "headline": "贺岁档今日开启，多部新片排定上映",
+        "summary": "27日是内地电影贺岁档首日，《泥面人》《魔法秘境》等影片排在当天上映。",
+        "detail": "片名与上映日期见中国电影数据信息网，具体场次可查当地影院。",
+        "source": "中国电影数据信息网",
+        "sourceUrl": "https://www.zgdypw.cn/sc/scxx/202611/25/t20261125_7406472.shtml",
         "top": false
       }
     ],
@@ -64,29 +82,6 @@
       }
     ],
     "offers": [
-      {
-        "brand": "第五届武汉煨汤滋补美食节",
-        "headline": "第五届武汉煨汤滋补美食节持续至2027年2月21日",
-        "summary": "由武汉市商务局指导、省市餐饮协会联合平台打造，首批200余家餐厅参与，淘宝闪购设本地专属会场并配套会场红包。",
-        "conditions": "消费券在抖音、美团搜索“武汉假日餐饮消费券”领取，券量有限先到先得；各门店优惠不同，详见各餐厅公告",
-        "sourceUrl": "https://www.ctdsb.net/c1738_202611/2907815.html",
-        "certain": true,
-        "venue": "三五醇、湖锦酒楼、肥肥虾庄、九龙大酒店、来菜、雅和睿景、小蓝鲸等200余家武汉餐厅",
-        "claim": "淘宝闪购煨汤节本地专属会场；抖音、美团搜索“武汉假日餐饮消费券”领券",
-        "validity": {
-          "starts": "2026-11-18",
-          "ends": "2027-02-21",
-          "weekdays": [
-            "日",
-            "一",
-            "二",
-            "三",
-            "四",
-            "五",
-            "六"
-          ]
-        }
-      },
       {
         "brand": "武汉煨汤节",
         "headline": "淘宝闪购会场红包",
