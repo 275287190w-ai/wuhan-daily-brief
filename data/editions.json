@@ -1,8 +1,129 @@
 [
   {
     "date": "2026-11-28",
-    "cutoffAt": "2026-11-28T05:41:55.089Z",
-    "stories": [],
+    "cutoffAt": "2026-11-28T05:56:05.193Z",
+    "stories": [
+      {
+        "category": "domestic",
+        "headline": "歼-35A飞抵珠海 将首次真机静态展出",
+        "summary": "歼-35A于28日上午飞抵珠海，将在12月7日开幕的第十六届中国航展上首次以真机形式在1号馆静态展出。",
+        "detail": "第十六届中国国际航空航天博览会定于12月7日至13日在珠海举办。歼-35A此前已多次亮相，此次为首次真机进馆静态展示，面向全球观众。航展公众日安排及飞行表演编队尚未公布，后续可关注空军参展装备清单。",
+        "source": "中国新闻网",
+        "sourceUrl": "https://www.chinanews.com.cn/gn/2026/11-28/10739155.shtml",
+        "top": false,
+        "occurredAt": "2026-11-28"
+      },
+      {
+        "category": "domestic",
+        "headline": "亚太数智赋能创新发展合作平台在成都启动",
+        "summary": "作为中国担任2026年APEC东道主的75项成果之一，亚太数智赋能创新发展合作平台28日在成都揭牌启动建设。",
+        "detail": "该平台在四川成都揭牌并启动建设，定位为亚太经合组织框架下推动数字技术与产业创新合作的载体。中国2026年担任APEC东道主，已形成75项成果清单，后续可关注平台具体项目落地及成员经济体参与情况。",
+        "source": "中国新闻网",
+        "sourceUrl": "https://www.chinanews.com.cn/gn/2026/11-28/10739151.shtml",
+        "top": false,
+        "occurredAt": "2026-11-28"
+      },
+      {
+        "category": "markets",
+        "headline": "前10个月物流市场呈现规模稳中有进",
+        "summary": "中国物流与采购联合会28日发布前10个月物流数据，市场呈现规模稳中有进、结构持续向优态势，国际物流通道保持畅通。",
+        "detail": "数据由中国物流与采购联合会28日发布，统计区间为1至10月。官方定性为“规模稳中有进、结构持续向优”，供给端效能与韧性增强。具体总额、增速及细分品类数据未在摘录中给出，后续可关注联合会完整报告。",
+        "source": "央视新闻",
+        "sourceUrl": "https://news.cctv.com/2026/11/28/ARTIUrXcTIgEv9mhry2lqUzD261128.shtml",
+        "top": false,
+        "occurredAt": "2026-11-28"
+      },
+      {
+        "category": "entertainment",
+        "headline": "古装传奇剧《两京十五日》热播",
+        "summary": "古装传奇剧《两京十五日》近期热播，将《明史》四十余字记载改编为二十六集剧集，沿大运河叙事引发关注。",
+        "detail": "该剧以《明史》中四十余字记载为蓝本，讲述十五日内从金陵到北京的故事，共二十六集。剧集近期播出，具体收视和平台热度数据未在摘录中披露。后续可关注其是否带动大运河沿线文旅热度。",
+        "source": "中国新闻网",
+        "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-28/10739203.shtml",
+        "top": false,
+        "occurredAt": "2026-11-28"
+      },
+      {
+        "category": "world",
+        "headline": "不满特朗普称普京“朋友” 泽连斯基敦促美对俄施压",
+        "summary": "在英国广播公司27日播出的采访中，乌克兰总统泽连斯基对美国总统特朗普称俄罗斯总统普京为“朋友”表达不满，并敦促美…",
+        "detail": "在英国广播公司27日播出的采访中，乌克兰总统泽连斯基对美国总统特朗普称俄罗斯总统普京为“朋友”表达不满，并敦促美…",
+        "source": "央视新闻",
+        "sourceUrl": "https://news.cctv.com/2026/11/28/ARTIBrgmvHSUnl2xoiZC0Mib261128.shtml",
+        "top": false,
+        "reportedAt": "2026-11-28T05:33:12.000Z"
+      },
+      {
+        "category": "world",
+        "headline": "波兰报告新增高致病性禽流感疫情",
+        "summary": "波兰兽医监察总局27日表示，新确认一起高致病性禽流感疫情。",
+        "detail": "波兰兽医监察总局27日表示，新确认一起高致病性禽流感疫情。",
+        "source": "央视新闻",
+        "sourceUrl": "https://news.cctv.com/2026/11/28/ARTI8AkuyzAGyJBhjvZmiNS8261128.shtml",
+        "top": false,
+        "reportedAt": "2026-11-28T05:31:16.000Z"
+      },
+      {
+        "category": "markets",
+        "headline": "从手工取样到智能智造 仿真花“开”出亿级大市场",
+        "summary": "鲜花受季节影响较大，但有一种花不用浇水，也不会凋零，它就是仿真花。",
+        "detail": "鲜花受季节影响较大，但有一种花不用浇水，也不会凋零，它就是仿真花。",
+        "source": "央视新闻",
+        "sourceUrl": "https://news.cctv.com/2026/11/28/ARTIbZqiSPqZv9sdTM3SrGZN261128.shtml",
+        "top": false,
+        "reportedAt": "2026-11-27T19:50:39.000Z"
+      },
+      {
+        "category": "entertainment",
+        "headline": "给文物做全方位“体检” 科技考古揭开吐谷浑王族墓葬群神秘面纱",
+        "summary": "“丝路唐风——慕容智墓出土文物特展”作为甘肃省博物馆扩建后新增的展览之一，开展一个多月以来，已吸引游客超12万人次。",
+        "detail": "“丝路唐风——慕容智墓出土文物特展”作为甘肃省博物馆扩建后新增的展览之一，开展一个多月以来，已吸引游客超12万人次。",
+        "source": "央视新闻",
+        "sourceUrl": "https://news.cctv.com/2026/11/28/ARTI1Z1x1we7DIbs8NpPfGd4261128.shtml",
+        "top": false,
+        "reportedAt": "2026-11-27T19:11:54.000Z"
+      },
+      {
+        "category": "entertainment",
+        "headline": "“案藏联韵——楹联档案文化展”在杭开展",
+        "summary": "11月27日，“案藏联韵——楹联档案文化展”在浙江省档案馆开展。",
+        "detail": "11月27日，“案藏联韵——楹联档案文化展”在浙江省档案馆开展。",
+        "source": "中国新闻网",
+        "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-28/10739115.shtml",
+        "top": false,
+        "reportedAt": "2026-11-28T01:30:45.000Z"
+      },
+      {
+        "category": "markets",
+        "headline": "黄河流域9省区进出口总值连续20个月超5000亿元",
+        "summary": "今年前10个月，黄河流域9省区进出口总值达到6.26万亿元，同比增长18.7%，已连续20个月超过5000亿元。",
+        "detail": "今年前10个月，黄河流域9省区进出口总值达到6.26万亿元，同比增长18.7%，已连续20个月超过5000亿元。",
+        "source": "央视新闻",
+        "sourceUrl": "https://jingji.cctv.com/2026/11/28/ARTIfKyjCmehyvVIFwcffysa261127.shtml",
+        "top": false,
+        "reportedAt": "2026-11-27T18:44:25.000Z"
+      },
+      {
+        "category": "world",
+        "headline": "世卫组织呼吁加快埃博拉疫苗和疗法试验",
+        "summary": "世界卫生组织27日表示，刚果（金）本轮埃博拉疫情持续，应加快候选疫苗和疗法的临床试验。",
+        "detail": "世界卫生组织27日表示，刚果（金）本轮埃博拉疫情持续，应加快候选疫苗和疗法的临床试验。",
+        "source": "央视新闻",
+        "sourceUrl": "https://news.cctv.com/2026/11/28/ARTIpv8Qz2vmqleAK5A5zhh3261128.shtml",
+        "top": false,
+        "reportedAt": "2026-11-28T04:13:53.000Z"
+      },
+      {
+        "category": "domestic",
+        "headline": "我国加快构建汽车行业智能制造标准体系",
+        "summary": "27日，汽车行业智能制造标准体系建设指南（2026版）征求意见稿向行业正式公开。",
+        "detail": "27日，汽车行业智能制造标准体系建设指南（2026版）征求意见稿向行业正式公开。",
+        "source": "央视新闻",
+        "sourceUrl": "https://news.cctv.com/2026/11/28/ARTI2aovBP0tcgYfz49u6P46261128.shtml",
+        "top": false,
+        "reportedAt": "2026-11-28T05:23:16.000Z"
+      }
+    ],
     "storyThreads": [
       {
         "id": "https://news.cctv.com/2026/11/26/ARTI7tnUmzYf5Xq0gfO2g6O9261126.shtml",
@@ -200,6 +321,138 @@
             "date": "2026-11-28",
             "title": "乌克兰情报部门称朝鲜暂停与俄罗斯部分军事合作",
             "summary": "乌克兰国防部情报总局26日表示，因朝俄外交关系紧张，朝鲜已暂停与俄罗斯的部分军事合作。"
+          }
+        ]
+      },
+      {
+        "id": "https://www.chinanews.com.cn/gn/2026/11-28/10739155.shtml",
+        "updates": [
+          {
+            "sourceUrl": "https://www.chinanews.com.cn/gn/2026/11-28/10739155.shtml",
+            "date": "2026-11-28",
+            "title": "歼-35A飞抵珠海 将首次真机静态展出",
+            "summary": "歼-35A于28日上午飞抵珠海，将在12月7日开幕的第十六届中国航展上首次以真机形式在1号馆静态展出。"
+          }
+        ]
+      },
+      {
+        "id": "https://www.chinanews.com.cn/gn/2026/11-28/10739151.shtml",
+        "updates": [
+          {
+            "sourceUrl": "https://www.chinanews.com.cn/gn/2026/11-28/10739151.shtml",
+            "date": "2026-11-28",
+            "title": "亚太数智赋能创新发展合作平台在成都启动",
+            "summary": "作为中国担任2026年APEC东道主的75项成果之一，亚太数智赋能创新发展合作平台28日在成都揭牌启动建设。"
+          }
+        ]
+      },
+      {
+        "id": "https://news.cctv.com/2026/11/28/ARTIUrXcTIgEv9mhry2lqUzD261128.shtml",
+        "updates": [
+          {
+            "sourceUrl": "https://news.cctv.com/2026/11/28/ARTIUrXcTIgEv9mhry2lqUzD261128.shtml",
+            "date": "2026-11-28",
+            "title": "前10个月物流市场呈现规模稳中有进",
+            "summary": "中国物流与采购联合会28日发布前10个月物流数据，市场呈现规模稳中有进、结构持续向优态势，国际物流通道保持畅通。"
+          }
+        ]
+      },
+      {
+        "id": "https://www.chinanews.com.cn/cul/2026/11-28/10739203.shtml",
+        "updates": [
+          {
+            "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-28/10739203.shtml",
+            "date": "2026-11-28",
+            "title": "古装传奇剧《两京十五日》热播",
+            "summary": "古装传奇剧《两京十五日》近期热播，将《明史》四十余字记载改编为二十六集剧集，沿大运河叙事引发关注。"
+          }
+        ]
+      },
+      {
+        "id": "https://news.cctv.com/2026/11/28/ARTIBrgmvHSUnl2xoiZC0Mib261128.shtml",
+        "updates": [
+          {
+            "sourceUrl": "https://news.cctv.com/2026/11/28/ARTIBrgmvHSUnl2xoiZC0Mib261128.shtml",
+            "date": "2026-11-28",
+            "title": "不满特朗普称普京“朋友” 泽连斯基敦促美对俄施压",
+            "summary": "在英国广播公司27日播出的采访中，乌克兰总统泽连斯基对美国总统特朗普称俄罗斯总统普京为“朋友”表达不满，并敦促美…"
+          }
+        ]
+      },
+      {
+        "id": "https://news.cctv.com/2026/11/28/ARTI8AkuyzAGyJBhjvZmiNS8261128.shtml",
+        "updates": [
+          {
+            "sourceUrl": "https://news.cctv.com/2026/11/28/ARTI8AkuyzAGyJBhjvZmiNS8261128.shtml",
+            "date": "2026-11-28",
+            "title": "波兰报告新增高致病性禽流感疫情",
+            "summary": "波兰兽医监察总局27日表示，新确认一起高致病性禽流感疫情。"
+          }
+        ]
+      },
+      {
+        "id": "https://news.cctv.com/2026/11/28/ARTIbZqiSPqZv9sdTM3SrGZN261128.shtml",
+        "updates": [
+          {
+            "sourceUrl": "https://news.cctv.com/2026/11/28/ARTIbZqiSPqZv9sdTM3SrGZN261128.shtml",
+            "date": "2026-11-28",
+            "title": "从手工取样到智能智造 仿真花“开”出亿级大市场",
+            "summary": "鲜花受季节影响较大，但有一种花不用浇水，也不会凋零，它就是仿真花。"
+          }
+        ]
+      },
+      {
+        "id": "https://news.cctv.com/2026/11/28/ARTI1Z1x1we7DIbs8NpPfGd4261128.shtml",
+        "updates": [
+          {
+            "sourceUrl": "https://news.cctv.com/2026/11/28/ARTI1Z1x1we7DIbs8NpPfGd4261128.shtml",
+            "date": "2026-11-28",
+            "title": "给文物做全方位“体检” 科技考古揭开吐谷浑王族墓葬群神秘面纱",
+            "summary": "“丝路唐风——慕容智墓出土文物特展”作为甘肃省博物馆扩建后新增的展览之一，开展一个多月以来，已吸引游客超12万人次。"
+          }
+        ]
+      },
+      {
+        "id": "https://www.chinanews.com.cn/cul/2026/11-28/10739115.shtml",
+        "updates": [
+          {
+            "sourceUrl": "https://www.chinanews.com.cn/cul/2026/11-28/10739115.shtml",
+            "date": "2026-11-28",
+            "title": "“案藏联韵——楹联档案文化展”在杭开展",
+            "summary": "11月27日，“案藏联韵——楹联档案文化展”在浙江省档案馆开展。"
+          }
+        ]
+      },
+      {
+        "id": "https://jingji.cctv.com/2026/11/28/ARTIfKyjCmehyvVIFwcffysa261127.shtml",
+        "updates": [
+          {
+            "sourceUrl": "https://jingji.cctv.com/2026/11/28/ARTIfKyjCmehyvVIFwcffysa261127.shtml",
+            "date": "2026-11-28",
+            "title": "黄河流域9省区进出口总值连续20个月超5000亿元",
+            "summary": "今年前10个月，黄河流域9省区进出口总值达到6.26万亿元，同比增长18.7%，已连续20个月超过5000亿元。"
+          }
+        ]
+      },
+      {
+        "id": "https://news.cctv.com/2026/11/28/ARTIpv8Qz2vmqleAK5A5zhh3261128.shtml",
+        "updates": [
+          {
+            "sourceUrl": "https://news.cctv.com/2026/11/28/ARTIpv8Qz2vmqleAK5A5zhh3261128.shtml",
+            "date": "2026-11-28",
+            "title": "世卫组织呼吁加快埃博拉疫苗和疗法试验",
+            "summary": "世界卫生组织27日表示，刚果（金）本轮埃博拉疫情持续，应加快候选疫苗和疗法的临床试验。"
+          }
+        ]
+      },
+      {
+        "id": "https://news.cctv.com/2026/11/28/ARTI2aovBP0tcgYfz49u6P46261128.shtml",
+        "updates": [
+          {
+            "sourceUrl": "https://news.cctv.com/2026/11/28/ARTI2aovBP0tcgYfz49u6P46261128.shtml",
+            "date": "2026-11-28",
+            "title": "我国加快构建汽车行业智能制造标准体系",
+            "summary": "27日，汽车行业智能制造标准体系建设指南（2026版）征求意见稿向行业正式公开。"
           }
         ]
       },
@@ -449,8 +702,8 @@
     ],
     "marketRecap": {
       "date": "2026-11-27",
-      "text": "A股27日午后全线爆发，半导体、通信设备等科技成长板块领涨，电子板块涨13.54%居首，银行、煤炭、石油石化逆势收跌；全市场5456只个股上涨、仅182只下跌。",
-      "sourceUrl": "https://stock.10jqka.com.cn/20261128/c682322178.shtml"
+      "text": "11月27日A股午后全线爆发，三大指数集体大涨，创业板指涨11.61%创2024年10月以来最大单日涨幅；半导体、通信设备、软件等科技板块领涨，煤炭、银行、电信等高股息板块逆势下跌，全市场5380只个股上涨、181只下跌，成交额2.02万亿元。",
+      "sourceUrl": "https://www.jwview.com/jingwei/html/11-27/698678.shtml"
     },
     "offers": [
       {
@@ -504,15 +757,15 @@
     ],
     "calendar": [],
     "douyin": {
-      "updatedAt": "2026-11-28T05:20:07.913Z",
+      "updatedAt": "2026-11-28T05:40:15.379Z",
       "topics": [
         {
           "title": "国考今日开考",
           "url": "https://www.douyin.com/video/7713031448218897674"
         },
         {
-          "title": "立陶宛高层两天内对台三次发声",
-          "url": "https://www.douyin.com/video/7713030281376075023"
+          "title": "U17国足将迎战塞尔维亚",
+          "url": "https://www.douyin.com/video/7713033821084380837"
         },
         {
           "title": "八部门印发服务贸易发展十五五规划",
@@ -523,8 +776,8 @@
           "url": "https://www.douyin.com/video/7713052969637367074"
         },
         {
-          "title": "坐火车的正确打开方式",
-          "url": "https://www.douyin.com/video/7712790504857908706"
+          "title": "立陶宛高层两天内对台三次发声",
+          "url": "https://www.douyin.com/video/7713030281376075023"
         }
       ]
     },
@@ -549,7 +802,7 @@
         },
         {
           "title": "2号线中山公园站A出入口临时封闭",
-          "detail": "因配合施工建设，2号线中山公园站A出入口临时封闭，乘客需改走其他出入口进出站。",
+          "detail": "配合施工建设，中山公园站A出入口临时封闭，乘客需改走其他出入口进出站。",
           "starts": "2026-11-10",
           "ends": "2026-12-10",
           "place": "2号线中山公园站A出入口",
@@ -558,7 +811,7 @@
         },
         {
           "title": "4/7号线武昌火车站A出入口临时封闭",
-          "detail": "4/7号线武昌火车站A出入口因施工临时封闭，换乘及进出站请留意车站指引。",
+          "detail": "武昌火车站A出入口因施工临时封闭，换乘及进站乘客请留意现场指引绕行。",
           "starts": "2026-11-12",
           "ends": "2026-12-10",
           "place": "4/7号线武昌火车站A出入口",
@@ -567,7 +820,7 @@
         },
         {
           "title": "2/7号线螃蟹岬站D1出入口临时封闭",
-          "detail": "2/7号线螃蟹岬站D1出入口临时封闭，可改由车站其他出入口通行。",
+          "detail": "螃蟹岬站D1出入口临时封闭，进出站请提前选择其他出入口。",
           "starts": "2026-11-18",
           "ends": "2026-12-16",
           "place": "2/7号线螃蟹岬站D1出入口",
@@ -576,7 +829,7 @@
         },
         {
           "title": "2号线广埠屯站K出入口临时封闭",
-          "detail": "2号线广埠屯站K出入口因施工临时封闭，进出站请提前规划路线。",
+          "detail": "广埠屯站K出入口因施工临时封闭，出行请改走其他出入口。",
           "starts": "2026-11-20",
           "ends": "2026-12-20",
           "place": "2号线广埠屯站K出入口",
