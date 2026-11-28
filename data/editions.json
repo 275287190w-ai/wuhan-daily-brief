@@ -1,163 +1,8 @@
 [
   {
     "date": "2026-11-28",
-    "cutoffAt": "2026-11-28T04:30:30.795Z",
-    "stories": [
-      {
-        "category": "domestic",
-        "headline": "国务院常务会议研究深化资本市场投融资综合改革",
-        "summary": "会议明确资本市场事关经济发展大局，要求加力发挥“国家队”稳市作用，优化中央汇金类“平准基金”功能。会议还部署推动上市公司加大分红回购、引导中长期资金入市。",
-        "detail": "会议提出坚持逆周期调节和改革攻坚两手抓，实施好存量政策、谋划出台增量政策，并强调依法强化全链条监管，坚决查处财务造假、违规减持。",
-        "source": "云岭先锋网",
-        "sourceUrl": "https://ylxf.1237125.cn/Html/News/2026/11/28/527613.html",
-        "top": true
-      },
-      {
-        "category": "domestic",
-        "headline": "证监会：会同有关方面抓紧研究出台相关增量政策",
-        "summary": "证监会传达学习国务院常务会议精神，表示将落实落细存量政策，并会同有关方面抓紧研究出台增量政策。",
-        "detail": "证监会还提到持续完善资本市场稳市机制、壮大中长期投资力量、加强输入性风险防范应对。",
-        "source": "CCTV节目官网",
-        "sourceUrl": "https://tv.cctv.com/2026/11/28/VIDEq0i8Ex2tVUNyrCK6mAkv261128.shtml",
-        "top": false
-      },
-      {
-        "category": "domestic",
-        "headline": "央行发布《人民币存贷款利率管理规定》和大额存单管理办法",
-        "summary": "央行发布《人民币存贷款利率管理规定》和《大额存单管理办法》，自2027年3月21日起施行。",
-        "detail": "规定不再对罚息利率区间作具体规定，改由金融机构与借款人协商确定；大额存单个人认购起点不低于10万元，机构不低于500万元。",
-        "source": "hgdaily.com.cn",
-        "sourceUrl": "https://m.hgdaily.com.cn/p/524295.html",
-        "top": false
-      },
-      {
-        "category": "markets",
-        "headline": "央行金融稳定报告提出研究向非银机构提供流动性机制安排",
-        "summary": "央行发布《中国金融稳定报告（2026）》，提出研究建立在特定情景下向非银机构提供流动性的机制性安排。",
-        "detail": "报告还提出发挥好两项支持资本市场的货币政策工具作用，保持流动性充裕。",
-        "source": "网易",
-        "sourceUrl": "https://www.163.com/dy/article/LCQBHVPL05198CJN.html",
-        "top": false
-      },
-      {
-        "category": "domestic",
-        "headline": "前10个月规模以上工业企业利润同比增长16.0%",
-        "summary": "国家统计局数据显示，1—10月全国规模以上工业企业实现利润总额67373.6亿元，同比增长16.0%。",
-        "detail": "电子行业对利润增长支撑明显，人工智能算力需求带动存储芯片等相关行业利润增长。",
-        "source": "cnxsg.cn",
-        "sourceUrl": "https://www.cnxsg.cn/yw/202611/t20261128_7858094.shtml",
-        "top": false
-      },
-      {
-        "category": "markets",
-        "headline": "花旗数据显示中国ETF单周净流入283亿美元",
-        "summary": "花旗援引EPFR数据称，截至11月25日当周中国ETF净流入283亿美元，超过同期美国股票基金234亿美元的净流入。",
-        "detail": "该规模占全球新兴市场股票基金净流入总额367亿美元的77%。",
-        "source": "九方智投",
-        "sourceUrl": "https://www.9fzt.com/9fztgw_1_top/e1c547af2d084bfbbba0474202a2dca8.html",
-        "top": false
-      },
-      {
-        "category": "markets",
-        "headline": "交通银行、农业银行披露股票回购增持贷款进展",
-        "summary": "交通银行自11月2日以来已支持14家上市公司披露回购增持计划；农业银行已与近200家上市公司达成合作意向，签订贷款合同超1500亿元。",
-        "detail": "此前央行等部门已将股票回购增持再贷款政策由阶段性安排转为长期制度性安排。",
-        "source": "网易",
-        "sourceUrl": "https://www.163.com/dy/article/LCQGJ1IV0514R9KQ.html",
-        "top": false
-      },
-      {
-        "category": "world",
-        "headline": "李强将于12月2日同主要国际经济组织负责人举行“1+10”对话会",
-        "summary": "外交部宣布，国务院总理李强将于12月2日上午在福建厦门同新开发银行、世界银行、IMF等10家国际经济组织负责人举行“1+10”对话会。",
-        "detail": "对话会主题为“以创新推动持续增长，以开放促进共同发展”。",
-        "source": "光明数字报",
-        "sourceUrl": "https://epaper.gmw.cn/gmrb/html/content/202611/28/content_31493.html",
-        "top": false
-      },
-      {
-        "category": "world",
-        "headline": "空军33型60余件装备将参展中国航展，歼-20A等首次亮相",
-        "summary": "第十六届中国航展将于12月7日在珠海开幕，空军选派33型60余件国产主战装备参展，歼-20A、运-20B、新一代预警雷达等首次亮相中国航展。",
-        "detail": "陆军也将首次设立室内展区，多款现役主战装备集中亮相。",
-        "source": "QQ News",
-        "sourceUrl": "https://news.qq.com/rain/a/20261128A0514H00",
-        "top": false
-      },
-      {
-        "category": "entertainment",
-        "headline": "2026年贺岁档开启，超五十部中外影片定档",
-        "summary": "2026年贺岁档（11月27日至12月31日）正式开启，已有超五十部中外影片定档，题材覆盖神话、喜剧、悬疑、科幻等。",
-        "detail": "《复仇者联盟5：毁灭之日》内地定档12月16日，较北美提前2天上映；《沙丘3》定档12月31日。",
-        "source": "dzng.com",
-        "sourceUrl": "https://m.dzplus.dzng.com/share/general/0/NEWS3850718DZXFZAZLNWCUH",
-        "top": false,
-        "thread": "https://news.cctv.com/2026/11/26/ARTI7tnUmzYf5Xq0gfO2g6O9261126.shtml"
-      },
-      {
-        "category": "entertainment",
-        "headline": "悬疑犯罪电影《指尖谋杀》今日全国公映",
-        "summary": "悬疑犯罪题材电影《指尖谋杀》11月28日全国公映，并发布角色海报和口碑特辑。",
-        "detail": "影片由张律监制，郭容非执导，周依然、梁靖康、周放领衔主演，以网络伤害为叙事背景。",
-        "source": "正义网",
-        "sourceUrl": "https://www.jcrb.com/livenews/2026/202611/t20261128_1063739.html",
-        "top": false
-      },
-      {
-        "category": "entertainment",
-        "headline": "迪士尼动画《魔法秘境》首日票房444万元",
-        "summary": "迪士尼动画《魔法秘境》11月27日上映，首日排片占比17.5%，收票房444万元，排在日榜第二。",
-        "detail": "首日上座率1.6%，灯塔专业版预测总票房约4426万元，猫眼预测约5432万元。",
-        "source": "Sohu",
-        "sourceUrl": "https://www.sohu.com/a/1107487892_114941?scm=10001.7746_13-119000.0.0-0-0-0-0.0&spm=smpc.channel_354.block3_32_P7Ovbu_1_fd.50.17958279467167IRBand_7746",
-        "top": false
-      },
-      {
-        "category": "entertainment",
-        "headline": "DC新片《泥面人》首日票房489万元夺冠",
-        "summary": "DC新片《泥面人》11月27日晚场起片，首日收票房489万元，成为单日票房冠军，豆瓣评分7.9分。",
-        "detail": "影片排映占比9.8%，上座率3.0%，灯塔预测总票房约4200万元，猫眼预测约5032万元。",
-        "source": "Sohu",
-        "sourceUrl": "https://www.sohu.com/a/1107489606_114941?scm=10001.7746_13-119000.0.0-0-0-0-0.0&spm=smpc.channel_354.block3_32_P7Ovbu_1_fd.22.1795828133263XR87WMB_7746",
-        "top": false
-      },
-      {
-        "category": "world",
-        "headline": "路透：美空军旗舰云平台Cloud One遭黑客入侵",
-        "summary": "路透社27日独家报道，美国空军旗舰云计算平台Cloud One遭黑客入侵，可能危及大量敏感资料。",
-        "detail": "报道未披露入侵范围和具体影响。",
-        "source": "明報新聞網",
-        "sourceUrl": "https://news.mingpao.com/ins/%e5%9c%8b%e9%9a%9b/section/20261128/s00005",
-        "top": false
-      },
-      {
-        "category": "world",
-        "headline": "OpenAI反诉苹果窃取商业机密",
-        "summary": "OpenAI于周五向加州法院提起诉讼，指控苹果窃取其商业机密并阻断其接触硬件供应商。",
-        "detail": "此举是对苹果今夏指控OpenAI窃取机密的反击，两家公司法律战升级。",
-        "source": "网易",
-        "sourceUrl": "https://www.163.com/dy/article/LCQ0G9IB05568W0A.html",
-        "top": false
-      },
-      {
-        "category": "world",
-        "headline": "欧盟特别峰会未就2028—2034年预算达成一致",
-        "summary": "欧盟特别峰会27日凌晨在布鲁塞尔闭幕，欧洲理事会主席科斯塔表示领导人未能就2028年至2034年多年期财政框架达成一致。",
-        "detail": "峰会还讨论了援助乌克兰资金问题。",
-        "source": "jrzjapp.cn",
-        "sourceUrl": "https://zjrb.jrzjapp.cn/html/2026-11/28/node_144343.htm",
-        "top": false
-      },
-      {
-        "category": "world",
-        "headline": "乌克兰情报部门称朝鲜暂停与俄罗斯部分军事合作",
-        "summary": "乌克兰国防部情报总局26日表示，因朝俄外交关系紧张，朝鲜已暂停与俄罗斯的部分军事合作。",
-        "detail": "乌方未披露具体暂停的合作内容。",
-        "source": "明報新聞網",
-        "sourceUrl": "https://news.mingpao.com/pns/%E5%9C%8B%E9%9A%9B/section/20261128/s00014",
-        "top": false
-      }
-    ],
+    "cutoffAt": "2026-11-28T05:41:55.089Z",
+    "stories": [],
     "storyThreads": [
       {
         "id": "https://news.cctv.com/2026/11/26/ARTI7tnUmzYf5Xq0gfO2g6O9261126.shtml",
@@ -604,8 +449,8 @@
     ],
     "marketRecap": {
       "date": "2026-11-27",
-      "text": "沪深京三市有 5380 只股票上涨，半导体板块走强，银行和煤炭板块表现偏弱。",
-      "sourceUrl": "https://www.thepaper.cn/newsDetail_forward_34574315"
+      "text": "A股27日午后全线爆发，半导体、通信设备等科技成长板块领涨，电子板块涨13.54%居首，银行、煤炭、石油石化逆势收跌；全市场5456只个股上涨、仅182只下跌。",
+      "sourceUrl": "https://stock.10jqka.com.cn/20261128/c682322178.shtml"
     },
     "offers": [
       {
@@ -659,23 +504,23 @@
     ],
     "calendar": [],
     "douyin": {
-      "updatedAt": "2026-11-28T04:00:11.666Z",
+      "updatedAt": "2026-11-28T05:20:07.913Z",
       "topics": [
         {
-          "title": "U17国足将迎战塞尔维亚",
-          "url": "https://www.douyin.com/video/7713033821084380837"
+          "title": "国考今日开考",
+          "url": "https://www.douyin.com/video/7713031448218897674"
+        },
+        {
+          "title": "立陶宛高层两天内对台三次发声",
+          "url": "https://www.douyin.com/video/7713030281376075023"
         },
         {
           "title": "八部门印发服务贸易发展十五五规划",
           "url": "https://www.douyin.com/video/7712849717427801359"
         },
         {
-          "title": "淡人穿出时髦感的冬季穿搭",
-          "url": "https://www.douyin.com/video/7712081641091582601"
-        },
-        {
-          "title": "立陶宛高层两天内对台三次发声",
-          "url": "https://www.douyin.com/video/7713030281376075023"
+          "title": "76人大胜步行者晋级淘汰赛",
+          "url": "https://www.douyin.com/video/7713052969637367074"
         },
         {
           "title": "坐火车的正确打开方式",
@@ -703,8 +548,26 @@
           "sourceUrl": "https://weibo.com/2/detail/5368875798495525"
         },
         {
+          "title": "2号线中山公园站A出入口临时封闭",
+          "detail": "因配合施工建设，2号线中山公园站A出入口临时封闭，乘客需改走其他出入口进出站。",
+          "starts": "2026-11-10",
+          "ends": "2026-12-10",
+          "place": "2号线中山公园站A出入口",
+          "source": "武汉地铁运营",
+          "sourceUrl": "https://weibo.com/2/detail/5363644192785224"
+        },
+        {
+          "title": "4/7号线武昌火车站A出入口临时封闭",
+          "detail": "4/7号线武昌火车站A出入口因施工临时封闭，换乘及进出站请留意车站指引。",
+          "starts": "2026-11-12",
+          "ends": "2026-12-10",
+          "place": "4/7号线武昌火车站A出入口",
+          "source": "武汉地铁运营",
+          "sourceUrl": "https://weibo.com/2/detail/5363644192785224"
+        },
+        {
           "title": "2/7号线螃蟹岬站D1出入口临时封闭",
-          "detail": "因配合施工建设，2/7号线螃蟹岬站D1出入口临时封闭至12月16日，请提前规划进出站路线。",
+          "detail": "2/7号线螃蟹岬站D1出入口临时封闭，可改由车站其他出入口通行。",
           "starts": "2026-11-18",
           "ends": "2026-12-16",
           "place": "2/7号线螃蟹岬站D1出入口",
@@ -713,20 +576,12 @@
         },
         {
           "title": "2号线广埠屯站K出入口临时封闭",
-          "detail": "因配合施工建设，2号线广埠屯站K出入口临时封闭至12月20日，期间请从其他出入口进出站。",
+          "detail": "2号线广埠屯站K出入口因施工临时封闭，进出站请提前规划路线。",
           "starts": "2026-11-20",
           "ends": "2026-12-20",
           "place": "2号线广埠屯站K出入口",
           "source": "武汉地铁运营",
           "sourceUrl": "https://weibo.com/2/detail/5363644192785224"
-        },
-        {
-          "title": "街道口站 B 口临时封闭",
-          "detail": "涉及 2 号线、8 号线，进出站请走其他开放出入口。",
-          "starts": "2026-11-25",
-          "ends": "2026-12-25",
-          "source": "武汉地铁运营",
-          "sourceUrl": "https://weibo.com/2/detail/5368875798495525"
         }
       ],
       "outings": [
